@@ -1,0 +1,127 @@
+<scheme name="DarculaCustom" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-08-03T10:54:21</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.3.0.3</property>
+    <property name="modified">2019-01-16T10:51:17</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="238d3e" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="436cec" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c3c3c3" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d0d65a" />
+      </value>
+    </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_CLASS">
+      <value>
+        <option name="FOREGROUND" value="238d3e" />
+      </value>
+    </option>
+    <option name="DART_INSTANCE_FIELD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="5592f8" />
+      </value>
+    </option>
+    <option name="DART_INSTANCE_FIELD_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="5592f8" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="7e873f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5592f8" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="26c158" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="238d3e" />
+      </value>
+    </option>
+    <option name="KOTLIN_CLASS">
+      <value>
+        <option name="FOREGROUND" value="238d3e" />
+      </value>
+    </option>
+    <option name="KOTLIN_INSTANCE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="5592f8" />
+      </value>
+    </option>
+    <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="26c158" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73bf" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
