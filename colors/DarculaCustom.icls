@@ -4,7 +4,7 @@
     <property name="created">2018-08-03T10:54:21</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.3</property>
-    <property name="modified">2019-01-18T15:04:35</property>
+    <property name="modified">2019-01-18T15:17:21</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -71,11 +71,6 @@
     <option name="DART_INSTANCE_FIELD_REFERENCE">
       <value>
         <option name="FOREGROUND" value="5592f8" />
-      </value>
-    </option>
-    <option name="DART_TOP_LEVEL_GETTER_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="26c158" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
