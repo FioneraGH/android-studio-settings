@@ -5,6 +5,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="LogInterceptor" type="PLAIN_TEXT" />
+      <mapping pattern="SH" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
