@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="ctncheck" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="LogInterceptor" type="PLAIN_TEXT" />
-      <mapping pattern="SH" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ctncheck" type="PLAIN_TEXT" />
+      <mapping pattern="SH" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
     </extensionMap>
