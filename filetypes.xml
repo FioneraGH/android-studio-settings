@@ -9,6 +9,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ctncheck" type="PLAIN_TEXT" />
       <mapping pattern="SH" type="PLAIN_TEXT" />
+      <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
     </extensionMap>
