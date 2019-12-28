@@ -4,16 +4,16 @@
     <property name="created">2018-08-03T10:54:21</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.3</property>
-    <property name="modified">2019-01-18T15:17:21</property>
+    <property name="modified">2019-12-28T11:18:28</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
@@ -85,6 +85,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5592f8" />
@@ -111,9 +114,18 @@
         <option name="FOREGROUND" value="5592f8" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="KOTLIN_TRAIT">
       <value>
         <option name="FOREGROUND" value="26c158" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
