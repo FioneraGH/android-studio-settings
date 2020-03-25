@@ -4,5 +4,6 @@
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Kotlin plugin updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Plugin Errors" displayType="NONE" />
+    <notification groupId="UnifiedDeployTask" displayType="NONE" />
   </component>
 </application>
