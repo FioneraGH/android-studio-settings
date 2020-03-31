@@ -18,6 +18,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="Exit" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
