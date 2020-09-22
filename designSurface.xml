@@ -1,0 +1,11 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="m_evaluate/src/main/res/layout/list_item_task.xml" value="0.12430555555555556" />
+        <entry key="m_recheck/src/main/res/layout/layout_recheck_task_info.xml" value="0.12430555555555556" />
+        <entry key="m_recheck/src/main/res/layout/list_item_recheck_task_dealing.xml" value="0.12430555555555556" />
+      </map>
+    </option>
+  </component>
+</application>
