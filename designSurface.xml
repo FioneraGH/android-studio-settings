@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.36018518518518516" />
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.2851851851851852" />
