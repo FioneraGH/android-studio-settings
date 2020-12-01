@@ -4,7 +4,9 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/download_progress_drawable.xml" value="0.3855975485188968" />
         <entry key="app/src/main/res/drawable/selector_mv_template_select_state.xml" value="0.3855975485188968" />
+        <entry key="app/src/main/res/layout/activity_ktv_prepare.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/dialog_loading_jump.xml" value="0.33425925925925926" />
@@ -13,7 +15,9 @@
         <entry key="app/src/main/res/layout/fragment_video_effect.xml" value="0.36018518518518516" />
         <entry key="app/src/main/res/layout/fragment_video_play_controller.xml" value="0.36018518518518516" />
         <entry key="app/src/main/res/layout/fragment_works.xml" value="0.33425925925925926" />
+        <entry key="app/src/main/res/layout/layout_net_state.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/video_mv_template_item.xml" value="0.3398148148148148" />
+        <entry key="app/src/main/res/layout/view_downloading.xml" value="0.36670071501532175" />
         <entry key="m_evaluate/src/main/res/layout/list_item_task.xml" value="0.12430555555555556" />
         <entry key="m_recheck/src/main/res/layout/layout_recheck_task_info.xml" value="0.12430555555555556" />
         <entry key="m_recheck/src/main/res/layout/list_item_recheck_task_dealing.xml" value="0.12430555555555556" />
