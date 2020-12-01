@@ -6,8 +6,11 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/download_progress_drawable.xml" value="0.3855975485188968" />
         <entry key="app/src/main/res/drawable/selector_mv_template_select_state.xml" value="0.3855975485188968" />
+        <entry key="app/src/main/res/drawable/shape_mv_template_edit_publish.xml" value="0.3855975485188968" />
+        <entry key="app/src/main/res/drawable/shape_mv_template_image_select.xml" value="0.3855975485188968" />
         <entry key="app/src/main/res/layout/activity_ktv_prepare.xml" value="0.36670071501532175" />
-        <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_ktv_record.xml" value="0.3648148148148148" />
+        <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/dialog_loading_jump.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/fragment_editor_main_function_bar.xml" value="0.33425925925925926" />
