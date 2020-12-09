@@ -21,6 +21,8 @@
         <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_music_rank.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.36670071501532175" />
+        <entry key="app/src/main/res/layout/bottom_sheet_complain_item.xml" value="0.36670071501532175" />
+        <entry key="app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/custom_tool_bar.xml" value="0.375" />
         <entry key="app/src/main/res/layout/dialog_loading_jump.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/equalizer_gain_item.xml" value="0.3648148148148148" />
@@ -40,6 +42,7 @@
         <entry key="app/src/main/res/layout/layout_net_state.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/list_item_upload_file_status.xml" value="0.34444444444444444" />
         <entry key="app/src/main/res/layout/music_effect_item.xml" value="0.36018518518518516" />
+        <entry key="app/src/main/res/layout/share_dialog.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/title_normal.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/video_mv_template_item.xml" value="0.3398148148148148" />
         <entry key="app/src/main/res/layout/view_downloading.xml" value="0.36670071501532175" />
