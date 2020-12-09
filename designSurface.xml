@@ -37,6 +37,7 @@
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/item_home.xml" value="0.36018518518518516" />
         <entry key="app/src/main/res/layout/item_image_dir.xml" value="0.36670071501532175" />
+        <entry key="app/src/main/res/layout/item_photo_picker.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/item_song_sug.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_video_mv_template.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/layout_adjust_effect.xml" value="0.36018518518518516" />
