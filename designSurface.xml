@@ -23,6 +23,7 @@
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/bottom_sheet_complain_item.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.36670071501532175" />
+        <entry key="app/src/main/res/layout/bottom_sheet_item_publish_visibility.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/custom_tool_bar.xml" value="0.375" />
         <entry key="app/src/main/res/layout/dialog_loading_jump.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/equalizer_gain_item.xml" value="0.3648148148148148" />
@@ -35,6 +36,7 @@
         <entry key="app/src/main/res/layout/fragment_works.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/item_home.xml" value="0.36018518518518516" />
+        <entry key="app/src/main/res/layout/item_image_dir.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_song_sug.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_video_mv_template.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/layout_adjust_effect.xml" value="0.36018518518518516" />
