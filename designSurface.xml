@@ -28,6 +28,7 @@
         <entry key="app/src/main/res/layout/dialog_loading_jump.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/dialog_version_update.xml" value="0.3534218590398366" />
         <entry key="app/src/main/res/layout/equalizer_gain_item.xml" value="0.3648148148148148" />
+        <entry key="app/src/main/res/layout/fragment_comment.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/fragment_editor_main_function_bar.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/fragment_effect_manager.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3648148148148148" />
@@ -39,7 +40,7 @@
         <entry key="app/src/main/res/layout/fragment_video_play_controller.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/fragment_works.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.3648148148148148" />
-        <entry key="app/src/main/res/layout/item_home.xml" value="0.36018518518518516" />
+        <entry key="app/src/main/res/layout/item_home.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/item_image_dir.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_photo_picker.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/item_song_sug.xml" value="0.36670071501532175" />
