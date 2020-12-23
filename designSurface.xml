@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/res/layout/account_login_phone_one_key.xml" value="0.31927083333333334" />
         <entry key="app/src/main/res/drawable/bg_edittext_cursor.xml" value="0.3932291666666667" />
         <entry key="app/src/main/res/drawable/download_progress_drawable.xml" value="0.3855975485188968" />
         <entry key="app/src/main/res/drawable/icon_ruler_indicator.xml" value="0.3855975485188968" />
