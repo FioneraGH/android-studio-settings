@@ -55,6 +55,7 @@
         <entry key="app/src/main/res/layout/fragment_effect_manager.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/fragment_feed_detail.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3648148148148148" />
+        <entry key="app/src/main/res/layout/fragment_home_list.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_import_net_music.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/fragment_mine.xml" value="0.3207070707070707" />
         <entry key="app/src/main/res/layout/fragment_music_effect.xml" value="0.3648148148148148" />
