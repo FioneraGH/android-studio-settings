@@ -88,6 +88,8 @@
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/item_home.xml" value="0.625" />
         <entry key="app/src/main/res/layout/item_image_dir.xml" value="0.36670071501532175" />
+        <entry key="app/src/main/res/layout/item_message_month.xml" value="0.35648148148148145" />
+        <entry key="app/src/main/res/layout/item_message_normal.xml" value="0.35648148148148145" />
         <entry key="app/src/main/res/layout/item_photo_picker.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/item_song_sug.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_user_task_center.xml" value="0.3074074074074074" />
