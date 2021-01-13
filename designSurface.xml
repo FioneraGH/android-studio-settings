@@ -35,6 +35,7 @@
         <entry key="app/src/main/res/layout/activity_cover_edit.xml" value="0.35555555555555557" />
         <entry key="app/src/main/res/layout/activity_edit_user_info.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_feed_detail.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/activity_feed_detail_new.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/layout/activity_friend.xml" value="0.38796296296296295" />
         <entry key="app/src/main/res/layout/activity_grant_permission.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_image_viewer.xml" value="0.36666666666666664" />
