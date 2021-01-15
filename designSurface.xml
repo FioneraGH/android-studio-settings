@@ -37,7 +37,7 @@
         <entry key="app/src/main/res/layout/activity_cover_edit.xml" value="0.35555555555555557" />
         <entry key="app/src/main/res/layout/activity_edit_user_info.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_feed_detail.xml" value="0.30185185185185187" />
-        <entry key="app/src/main/res/layout/activity_feed_detail_new.xml" value="0.3731481481481482" />
+        <entry key="app/src/main/res/layout/activity_feed_detail_new.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_friend.xml" value="0.38796296296296295" />
         <entry key="app/src/main/res/layout/activity_grant_permission.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_image_viewer.xml" value="0.36666666666666664" />
@@ -47,7 +47,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.30185185185185187" />
         <entry key="app/src/main/res/layout/activity_message_center.xml" value="0.37395833333333334" />
-        <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.21666666666666667" />
+        <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.31574074074074077" />
         <entry key="app/src/main/res/layout/activity_music_rank.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_mv_edit.xml" value="0.33240740740740743" />
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.36670071501532175" />
