@@ -99,7 +99,7 @@
         <entry key="app/src/main/res/layout/item_comment.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/item_gift_rank_list.xml" value="0.38697916666666665" />
-        <entry key="app/src/main/res/layout/item_home.xml" value="0.34718100890207715" />
+        <entry key="app/src/main/res/layout/item_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_home_feed.xml" value="0.27037037037037037" />
         <entry key="app/src/main/res/layout/item_image_dir.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_message_month.xml" value="0.35648148148148145" />
