@@ -130,6 +130,9 @@
         <entry key="app/src/main/res/layout/whale_view_play_state.xml" value="0.37395833333333334" />
         <entry key="core/test-config/src/main/res/layout/debug_network_detail.xml" value="0.31307456588355465" />
         <entry key="group-common/common/src/main/res/layout/widget_toast_layout.xml" value="0.36666666666666664" />
+        <entry key="group-modules/gallery/src/main/res/layout/activity_gallery.xml" value="0.32592592592592595" />
+        <entry key="group-modules/gallery/src/main/res/layout/frg_gallery.xml" value="0.32592592592592595" />
+        <entry key="group-modules/gallery/src/main/res/layout/frg_gallery_head_action.xml" value="0.32592592592592595" />
         <entry key="ks-features/ft-feed/detail/res/layout/list_item_photo_label_ai_cut.xml" value="0.34814814814814815" />
         <entry key="ks-features/ft-post/aicut/src/main/res/layout/aicut_activity_loading.xml" value="0.34814814814814815" />
         <entry key="m_evaluate/src/main/res/layout/list_item_task.xml" value="0.12430555555555556" />
