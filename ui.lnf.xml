@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="MAX_LOOKUP_WIDTH2" value="751" />
