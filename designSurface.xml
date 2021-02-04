@@ -39,6 +39,7 @@
         <entry key="app/src/main/res/drawable/whale_feed_voice_comment_progressbar.xml" value="0.3932291666666667" />
         <entry key="app/src/main/res/layout/activity_commend_detail.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/activity_cover_edit.xml" value="0.35555555555555557" />
+        <entry key="app/src/main/res/layout/activity_demo.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_edit_user_info.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_feed_detail.xml" value="0.30185185185185187" />
         <entry key="app/src/main/res/layout/activity_feed_detail_new.xml" value="0.35" />
@@ -139,9 +140,11 @@
         <entry key="app/src/main/res/layout/view_video_upload_result.xml" value="0.3101851851851852" />
         <entry key="app/src/main/res/layout/whale_activity_home.xml" value="0.5" />
         <entry key="app/src/main/res/layout/whale_barrage_operation_panel.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/whale_common_dialog.xml" value="0.25" />
         <entry key="app/src/main/res/layout/whale_fragment_voice_comment.xml" value="0.2388888888888889" />
         <entry key="app/src/main/res/layout/whale_fragment_voice_comment_record.xml" value="0.5" />
         <entry key="app/src/main/res/layout/whale_item_home_feed.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/whale_view_comment_record_button.xml" value="0.25" />
         <entry key="app/src/main/res/layout/whale_view_new_seek.xml" value="0.5" />
         <entry key="app/src/main/res/layout/whale_view_play_state.xml" value="0.5" />
         <entry key="core/test-config/src/main/res/layout/debug_network_detail.xml" value="0.31307456588355465" />
