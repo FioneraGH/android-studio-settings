@@ -142,8 +142,8 @@
         <entry key="app/src/main/res/layout/whale_fragment_voice_comment.xml" value="0.2388888888888889" />
         <entry key="app/src/main/res/layout/whale_fragment_voice_comment_record.xml" value="0.5" />
         <entry key="app/src/main/res/layout/whale_item_home_feed.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/whale_view_new_seek.xml" value="0.37395833333333334" />
-        <entry key="app/src/main/res/layout/whale_view_play_state.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/whale_view_new_seek.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/whale_view_play_state.xml" value="0.5" />
         <entry key="core/test-config/src/main/res/layout/debug_network_detail.xml" value="0.31307456588355465" />
         <entry key="group-common/common/src/main/res/layout/widget_toast_layout.xml" value="0.36666666666666664" />
         <entry key="group-modules/gallery/src/main/res/layout/activity_gallery.xml" value="0.32592592592592595" />
