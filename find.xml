@@ -14,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.pro</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
