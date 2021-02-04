@@ -51,9 +51,9 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3101851851851852" />
         <entry key="app/src/main/res/layout/activity_message_center.xml" value="0.37395833333333334" />
-        <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.31574074074074077" />
+        <entry key="app/src/main/res/layout/activity_multi_video_edit.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_music_rank.xml" value="0.36670071501532175" />
-        <entry key="app/src/main/res/layout/activity_mv_edit.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/activity_mv_edit.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_mv_filter.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/activity_one_key_login.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_photo_picker.xml" value="0.24074074074074073" />
@@ -103,7 +103,7 @@
         <entry key="app/src/main/res/layout/item_dangling_lrc_textview.xml" value="0.2824074074074074" />
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/item_gift_rank_list.xml" value="0.38697916666666665" />
-        <entry key="app/src/main/res/layout/item_home.xml" value="0.34750462107208874" />
+        <entry key="app/src/main/res/layout/item_home.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_home_feed.xml" value="0.37395833333333334" />
         <entry key="app/src/main/res/layout/item_image_dir.xml" value="0.36670071501532175" />
         <entry key="app/src/main/res/layout/item_message_month.xml" value="0.35648148148148145" />
