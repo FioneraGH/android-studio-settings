@@ -144,6 +144,7 @@
         <entry key="app/src/main/res/layout/whale_fragment_voice_comment.xml" value="0.2388888888888889" />
         <entry key="app/src/main/res/layout/whale_fragment_voice_comment_record.xml" value="0.5" />
         <entry key="app/src/main/res/layout/whale_item_home_feed.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/whale_view_barrage.xml" value="0.28703703703703703" />
         <entry key="app/src/main/res/layout/whale_view_comment_record_button.xml" value="0.33" />
         <entry key="app/src/main/res/layout/whale_view_new_seek.xml" value="0.5" />
         <entry key="app/src/main/res/layout/whale_view_play_state.xml" value="0.5" />
