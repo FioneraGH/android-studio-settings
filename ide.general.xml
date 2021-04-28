@@ -23,6 +23,7 @@
     <option name="widgets">
       <map>
         <entry key="Position" value="false" />
+        <entry key="UserSentimentPanelNegative" value="false" />
       </map>
     </option>
   </component>
