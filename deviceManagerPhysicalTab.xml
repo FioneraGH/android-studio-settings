@@ -1,0 +1,14 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <serialNumber value="66B0220928004498" />
+        <lastOnlineTime value="2021-05-19T08:07:20.468294Z" />
+        <name value="HUAWEI OXF-AN10" />
+        <target value="Android 10.0" />
+        <api value="29" />
+        <connectionType value="USB" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
