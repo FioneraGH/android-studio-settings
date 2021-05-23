@@ -2,8 +2,14 @@
   <component name="deviceManagerPhysicalTab">
     <physicalDevices>
       <PhysicalDevice>
+        <serialNumber value="LZKBMZTG95UGS4V8" />
+        <name value="vivo V1818CA" />
+        <target value="Android 8.1" />
+        <api value="27" />
+        <connectionType value="USB" />
+      </PhysicalDevice>
+      <PhysicalDevice>
         <serialNumber value="66B0220928004498" />
-        <lastOnlineTime value="2021-05-23T02:23:22.978984Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
