@@ -8,7 +8,7 @@
             <value value="66B0220928004498" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-06-24T10:01:07.997142Z" />
+        <lastOnlineTime value="2021-06-24T10:19:30.784996Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -34,6 +34,17 @@
         <name value="OPPO PBBM30" />
         <target value="Android 8.1" />
         <api value="27" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="Z81QAEWKSRGQB" />
+          </Key>
+        </key>
+        <name value="meizu meizu 17" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
