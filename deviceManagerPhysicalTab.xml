@@ -8,10 +8,32 @@
             <value value="66B0220928004498" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-06-23T12:25:02.251218Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="NAB0220324028317" />
+          </Key>
+        </key>
+        <name value="HUAWEI ANA-AN00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a75ef30c" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-06-24T03:58:54.933028Z" />
+        <name value="OPPO PBBM30" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
