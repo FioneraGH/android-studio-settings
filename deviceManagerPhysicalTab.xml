@@ -8,7 +8,6 @@
             <value value="66B0220928004498" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-06-30T04:13:34.301372Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -43,6 +42,18 @@
           </Key>
         </key>
         <name value="meizu meizu 17" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="d4ed97fc" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-07-08T12:51:22.166975Z" />
+        <name value="OnePlus GM1910" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
