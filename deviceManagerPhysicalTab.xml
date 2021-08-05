@@ -8,10 +8,16 @@
             <value value="66B0220928004498" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-07-09T02:12:01.811008Z" />
+        <lastOnlineTime value="2021-08-05T07:48:33.868809Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
+        <resolution>
+          <Resolution>
+            <width value="1080" />
+            <height value="2400" />
+          </Resolution>
+        </resolution>
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
