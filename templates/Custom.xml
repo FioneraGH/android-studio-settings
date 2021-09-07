@@ -1,0 +1,8 @@
+<templateSet group="Custom">
+  <template name="fm" value="/** $e$ */" description="/** desc */" toReformat="false" toShortenFQNames="true">
+    <variable name="e" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
