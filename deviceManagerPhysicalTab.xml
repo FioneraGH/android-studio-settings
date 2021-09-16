@@ -8,7 +8,7 @@
             <value value="66B0220928004498" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-09-15T10:55:04.999125Z" />
+        <lastOnlineTime value="2021-09-16T06:18:24.720622Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -56,6 +56,17 @@
         <name value="OnePlus GM1910" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="QYJ7N18226000061" />
+          </Key>
+        </key>
+        <name value="HUAWEI VKY-L29" />
+        <target value="Android 7.0" />
+        <api value="24" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
