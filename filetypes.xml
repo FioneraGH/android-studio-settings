@@ -4,12 +4,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="ctncheck" type="PLAIN_TEXT" />
-      <mapping pattern="LogInterceptor" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="ctncheck" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="SH" type="PLAIN_TEXT" />
+      <mapping pattern="LogInterceptor" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

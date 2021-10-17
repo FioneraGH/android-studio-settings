@@ -1,4 +1,11 @@
 <application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="ide.suppress.double.click.handler" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
@@ -16,7 +23,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
-    <entry key="ide.suppress.double.click.handler" value="true" />
     <entry key="ide.images.show.chessboard" value="true" />
   </component>
   <component name="StatusBar">
