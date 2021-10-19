@@ -8,7 +8,6 @@
             <value value="66B0220928004498" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-10-19T09:30:46.101535Z" />
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -67,6 +66,17 @@
         <name value="HUAWEI VKY-L29" />
         <target value="Android 7.0" />
         <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="f3067223" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi 10 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
