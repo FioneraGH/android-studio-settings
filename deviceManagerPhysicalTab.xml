@@ -85,8 +85,19 @@
             <value value="4f07d573" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-10-20T04:56:41.071003Z" />
         <name value="Xiaomi Redmi Note 7" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="HQBUMZNVYTUKPVFM" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-10-20T06:16:05.165904Z" />
+        <name value="Xiaomi M2006C3LC" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
