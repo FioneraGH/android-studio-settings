@@ -29,6 +29,11 @@
       </entry>
     </option>
   </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="/Applications/Beyond Compare.app/Contents/MacOS/BCompare" />
+    <option name="MERGE_EXE_PATH" value="/Applications/Beyond Compare.app/Contents/MacOS/BCompare.real" />
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
