@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="4d192b74" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-11-03T02:13:08.359340Z" />
+        <name value="Xiaomi Redmi K30" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="66B0220928004498" />
           </Key>
         </key>
