@@ -9,7 +9,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.pro</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -17,5 +16,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
