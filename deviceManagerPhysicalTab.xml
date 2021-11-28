@@ -111,6 +111,17 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="LZKBMZTG95UGS4V8" />
+          </Key>
+        </key>
+        <name value="vivo V1818CA" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
