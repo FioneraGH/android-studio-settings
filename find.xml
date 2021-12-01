@@ -1,21 +1,21 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '…/app/src/main/java/com/kwai/sun/hisense/ui/topic/MusicWorksActivity.kt [hisense-android.app.main]'" />
+    <option name="defaultScopeName" value="File '…/app/src/main/java/com/kwai/sun/hisense/ui/topic/MusicWorksActivity.kt [hisense-android.app.main]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '…/app/src/main/java/com/kwai/sun/hisense/ui/topic/MusicWorksActivity.kt [hisense-android.app.main]'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.pro</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
   </component>
 </application>
