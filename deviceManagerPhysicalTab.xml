@@ -27,17 +27,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="NAB0220324028317" />
-          </Key>
-        </key>
-        <name value="HUAWEI ANA-AN00" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="a75ef30c" />
           </Key>
         </key>
