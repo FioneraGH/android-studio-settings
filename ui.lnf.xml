@@ -1,8 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
-    <option name="MAX_LOOKUP_WIDTH2" value="751" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="30" />
+    <option name="MAX_LOOKUP_WIDTH2" value="759" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
   </component>
