@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine kwaiIMSDK" />
         <option value="package:mine" />
+        <option value="package:mine kwaiIMSDK" />
         <option value="package:mine " />
         <option value="package:mine StartupMonitor" />
         <option value="package:mine LogTracker" />
