@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine =========presentuserids" />
+        <option value="package:mine presentuserids" />
         <option value="package:mine kwaiIMSDK" />
         <option value="package:mine " />
         <option value="package:mine StartupMonitor" />
