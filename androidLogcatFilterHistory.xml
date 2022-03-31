@@ -2,6 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine GrabMicFullScreenControlFragment" />
+        <option value="package:mine limit time" />
         <option value="package:mine songlin" />
         <option value="package:mine" />
         <option value="package:mine handleSignalMessage" />
