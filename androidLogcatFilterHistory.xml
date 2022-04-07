@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ClipboardViewModel" />
         <option value="package:mine" />
         <option value="package:mine AudioEva" />
@@ -10,7 +11,6 @@
         <option value="package:mine limit time" />
         <option value="package:mine handleSignalMessage" />
         <option value="package:mine AppMemoryState" />
-        <option value="package:mine " />
         <option value="package:mine =========presentuserids" />
         <option value="package:mine presentuserids" />
         <option value="package:mine kwaiIMSDK" />
