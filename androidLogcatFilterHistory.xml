@@ -2,10 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine " />
         <option value="package:mine ClipboardViewModel" />
-        <option value="package:mine" />
         <option value="package:mine AudioEva" />
         <option value="package:mine songlin" />
         <option value="package:mine GrabMicFullScreenControlFragment" />
