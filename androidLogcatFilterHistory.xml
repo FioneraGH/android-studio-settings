@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine destroyS" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine destroyS" />
         <option value="package:mine  " />
-        <option value="package:mine " />
         <option value="package:mine PagerLayoutManager" />
         <option value="package:mine" />
         <option value="package:mine level:ERROR " />
