@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QbSdk" />
+    <option name="mostRecentlyUsed" value="WebView" />
     <option name="nonFavorites">
       <list>
-        <option value="QbSdk" />
-        <option value="tbs_log" />
         <option value="WebView" />
         <option value="======" />
+        <option value="QbSdk" />
+        <option value="tbs_log" />
         <option value="onCoreInitFinished" />
         <option value="=====================" />
         <option value="TBS" />
