@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="WebView" />
     <option name="nonFavorites">
       <list>
+        <option value="WebView" />
         <option value="level:ERROR " />
         <option value="QbSdk" />
         <option value="chrom" />
@@ -22,7 +23,6 @@
         <option value="package:mine handleSignalMessage" />
         <option value="package:mine AppMemoryState" />
         <option value="package:mine =========presentuserids" />
-        <option value="package:mine presentuserids" />
       </list>
     </option>
   </component>
