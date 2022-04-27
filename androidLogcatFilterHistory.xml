@@ -4,6 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="WebView" />
+        <option value="======" />
+        <option value="onCoreInitFinished" />
+        <option value="=====================" />
+        <option value="TBS" />
+        <option value="SystemWebView" />
+        <option value="tag:WebView" />
         <option value="level:ERROR " />
         <option value="QbSdk" />
         <option value="chrom" />
@@ -17,12 +23,6 @@
         <option value="package:mine level:ERROR " />
         <option value="package:mine ClipboardViewModel" />
         <option value="package:mine AudioEva" />
-        <option value="package:mine songlin" />
-        <option value="package:mine GrabMicFullScreenControlFragment" />
-        <option value="package:mine limit time" />
-        <option value="package:mine handleSignalMessage" />
-        <option value="package:mine AppMemoryState" />
-        <option value="package:mine =========presentuserids" />
       </list>
     </option>
   </component>
