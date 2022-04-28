@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="WebView" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="webview" />
+        <option value="level:ERROR " />
         <option value="WebView" />
         <option value="======" />
         <option value="QbSdk" />
@@ -12,7 +15,6 @@
         <option value="TBS" />
         <option value="SystemWebView" />
         <option value="tag:WebView" />
-        <option value="level:ERROR " />
         <option value="chrom" />
         <option value="package:mine  " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine CONSO" />
         <option value="package:mine destroyS" />
         <option value="package:mine PagerLayoutManager" />
-        <option value="package:mine level:ERROR " />
-        <option value="package:mine ClipboardViewModel" />
       </list>
     </option>
   </component>
