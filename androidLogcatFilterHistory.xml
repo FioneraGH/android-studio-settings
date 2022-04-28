@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="======T" />
+    <option name="mostRecentlyUsed" value="DexLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="DexLoader" />
+        <option value="initTbsSettings" />
+        <option value="======" />
         <option value="======T" />
         <option value="level:error " />
         <option value="webview" />
         <option value="level:ERROR " />
         <option value="WebView" />
-        <option value="======" />
         <option value="QbSdk" />
         <option value="tbs_log" />
         <option value="onCoreInitFinished" />
@@ -21,8 +23,6 @@
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:chromium" />
-        <option value="package:mine CONSO" />
-        <option value="package:mine destroyS" />
       </list>
     </option>
   </component>
