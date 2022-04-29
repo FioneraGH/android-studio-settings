@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="TbsCoreLoadStat" />
         <option value="TBS" />
         <option value="======T" />
@@ -11,7 +12,6 @@
         <option value="initTbsSettings" />
         <option value="======" />
         <option value="level:error " />
-        <option value="webview" />
         <option value="level:ERROR " />
         <option value="WebView" />
         <option value="QbSdk" />
