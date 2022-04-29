@@ -3,11 +3,13 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="TbsCoreLoadStat" />
+        <option value="TBS" />
+        <option value="======T" />
         <option value="dexloader" />
         <option value="DexLoader" />
         <option value="initTbsSettings" />
         <option value="======" />
-        <option value="======T" />
         <option value="level:error " />
         <option value="webview" />
         <option value="level:ERROR " />
@@ -16,13 +18,11 @@
         <option value="tbs_log" />
         <option value="onCoreInitFinished" />
         <option value="=====================" />
-        <option value="TBS" />
         <option value="SystemWebView" />
         <option value="tag:WebView" />
         <option value="chrom" />
         <option value="package:mine  " />
         <option value="package:mine " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
