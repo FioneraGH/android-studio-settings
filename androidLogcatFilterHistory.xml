@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ShowHor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine ShowHor" />
         <option value="package:mine JOIN_ROOM" />
         <option value="package:mine ROOM_INFO" />
@@ -22,7 +22,6 @@
         <option value="level:error " />
         <option value="level:ERROR " />
         <option value="WebView" />
-        <option value="QbSdk" />
       </list>
     </option>
   </component>
