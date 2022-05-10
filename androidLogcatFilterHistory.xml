@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="TbsDexLoaderWorkaround" />
         <option value="webview" />
         <option value="TbsCoreLoadStat" />
@@ -22,7 +23,6 @@
         <option value="SystemWebView" />
         <option value="tag:WebView" />
         <option value="chrom" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
