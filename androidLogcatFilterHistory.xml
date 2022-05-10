@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ShowHorse" />
+    <option name="mostRecentlyUsed" value="package:mine ShowHor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ShowHor" />
+        <option value="package:mine JOIN_ROOM" />
+        <option value="package:mine ROOM_INFO" />
+        <option value="package:mine ShowHo" />
+        <option value="package:mine " />
         <option value="package:mine ShowHorse" />
         <option value="package:mine  " />
         <option value="TbsDexLoaderWorkaround" />
@@ -18,11 +23,6 @@
         <option value="level:ERROR " />
         <option value="WebView" />
         <option value="QbSdk" />
-        <option value="tbs_log" />
-        <option value="onCoreInitFinished" />
-        <option value="=====================" />
-        <option value="SystemWebView" />
-        <option value="tag:WebView" />
       </list>
     </option>
   </component>
