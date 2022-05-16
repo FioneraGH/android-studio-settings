@@ -115,12 +115,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ZY224BQMPM" />
+            <value value="Q5S5T19402002620" />
           </Key>
         </key>
-        <name value="motorola Moto Z (2)" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="HUAWEI ELE-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
