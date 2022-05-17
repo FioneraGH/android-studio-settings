@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine ==============buffer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ==============buffer" />
         <option value="package:mine  " />
         <option value="package:mine onDestroy" />
         <option value="package:mine ShowHorse222" />
@@ -22,7 +23,6 @@
         <option value="DexLoader" />
         <option value="initTbsSettings" />
         <option value="======" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
