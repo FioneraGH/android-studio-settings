@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ==============buffer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine ==============buffer" />
         <option value="package:mine  " />
         <option value="package:mine onDestroy" />
         <option value="package:mine ShowHorse222" />
-        <option value="package:mine" />
         <option value="package:mine ShowHor" />
         <option value="package:mine JOIN_ROOM" />
         <option value="package:mine ROOM_INFO" />
