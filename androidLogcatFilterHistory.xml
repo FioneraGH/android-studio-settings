@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Pay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Pay" />
         <option value="package:mine" />
         <option value="package:mine ==============buffer" />
         <option value="package:mine  " />
@@ -21,7 +23,6 @@
         <option value="dexloader" />
         <option value="DexLoader" />
         <option value="initTbsSettings" />
-        <option value="======" />
       </list>
     </option>
   </component>
