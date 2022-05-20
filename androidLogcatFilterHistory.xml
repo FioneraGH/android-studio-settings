@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine Pay" />
+        <option value="package:mine KwaiPaysdk" />
         <option value="package:mine" />
         <option value="package:mine ==============buffer" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="======T" />
         <option value="dexloader" />
         <option value="DexLoader" />
-        <option value="initTbsSettings" />
       </list>
     </option>
   </component>
