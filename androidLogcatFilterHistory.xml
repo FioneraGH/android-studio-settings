@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Pay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Pay" />
         <option value="package:mine" />
         <option value="package:mine CreateRoomRealName" />
         <option value="package:mine PaymentRealName" />
         <option value="package:mine payRealname" />
-        <option value="package:mine Pay" />
         <option value="package:mine KwaiPaysdk" />
         <option value="package:mine ==============buffer" />
         <option value="package:mine  " />
