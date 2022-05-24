@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Pay" />
+    <option name="mostRecentlyUsed" value="package:mine RealName" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RealName" />
         <option value="package:mine Pay" />
         <option value="package:mine" />
         <option value="package:mine CreateRoomRealName" />
@@ -22,7 +23,6 @@
         <option value="TbsDexLoaderWorkaround" />
         <option value="webview" />
         <option value="TbsCoreLoadStat" />
-        <option value="TBS" />
       </list>
     </option>
   </component>
