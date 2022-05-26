@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ANDROID_" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ANDROID_" />
         <option value="package:mine CONSOLE" />
         <option value="package:mine RealName" />
@@ -20,7 +21,6 @@
         <option value="package:mine JOIN_ROOM" />
         <option value="package:mine ROOM_INFO" />
         <option value="package:mine ShowHo" />
-        <option value="package:mine " />
         <option value="package:mine ShowHorse" />
         <option value="TbsDexLoaderWorkaround" />
       </list>
