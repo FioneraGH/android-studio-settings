@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine DeviceIdProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DeviceIdProvider" />
+        <option value="package:mine" />
+        <option value="package:mine DeviceId" />
         <option value="package:mine " />
         <option value="package:mine mp4" />
         <option value="package:mine ANDROID_" />
         <option value="package:mine CONSOLE" />
         <option value="package:mine RealName" />
         <option value="package:mine Pay" />
-        <option value="package:mine" />
         <option value="package:mine CreateRoomRealName" />
         <option value="package:mine PaymentRealName" />
         <option value="package:mine payRealname" />
@@ -21,8 +23,6 @@
         <option value="package:mine ShowHor" />
         <option value="package:mine JOIN_ROOM" />
         <option value="package:mine ROOM_INFO" />
-        <option value="package:mine ShowHo" />
-        <option value="package:mine ShowHorse" />
       </list>
     </option>
   </component>
