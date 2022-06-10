@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DeviceIdProvider" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine DeviceIdProvider" />
         <option value="package:mine" />
         <option value="package:mine DeviceId" />
-        <option value="package:mine " />
         <option value="package:mine mp4" />
         <option value="package:mine ANDROID_" />
         <option value="package:mine CONSOLE" />
