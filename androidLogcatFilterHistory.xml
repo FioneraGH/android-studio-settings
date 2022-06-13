@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine PrivacyMethodHook" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine FMEffectRenderView" />
-        <option value="package:mine " />
         <option value="package:mine DeviceIdProvider" />
         <option value="package:mine DeviceId" />
         <option value="package:mine mp4" />
