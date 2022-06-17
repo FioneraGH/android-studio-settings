@@ -1,9 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine KwaiPushSDK" />
         <option value="package:mine " />
+        <option value="package:mine KwaiPushSdk" />
+        <option value="package:mine DeviceId" />
+        <option value="package:mine Push" />
+        <option value="DeviceIdProvider" />
+        <option value="package:mine DeviceIdProvider" />
         <option value="package:mine YTechGift" />
         <option value="package:mine DeviceLevelManager" />
         <option value="package:mine createO" />
@@ -11,18 +17,11 @@
         <option value="package:mine createo" />
         <option value="package:mine FMEffectRenderView" />
         <option value="package:mine PrivacyMethodHook" />
-        <option value="package:mine" />
-        <option value="package:mine DeviceIdProvider" />
-        <option value="package:mine DeviceId" />
         <option value="package:mine mp4" />
         <option value="package:mine ANDROID_" />
         <option value="package:mine CONSOLE" />
         <option value="package:mine RealName" />
         <option value="package:mine Pay" />
-        <option value="package:mine CreateRoomRealName" />
-        <option value="package:mine PaymentRealName" />
-        <option value="package:mine payRealname" />
-        <option value="package:mine KwaiPaysdk" />
       </list>
     </option>
   </component>
