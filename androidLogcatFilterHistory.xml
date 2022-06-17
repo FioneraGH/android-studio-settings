@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine YTechGift" />
+    <option name="mostRecentlyUsed" value="package:mine DeviceLevelManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DeviceLevelManager" />
         <option value="package:mine YTechGift" />
         <option value="package:mine createO" />
         <option value="package:mine creat" />
@@ -22,7 +23,6 @@
         <option value="package:mine PaymentRealName" />
         <option value="package:mine payRealname" />
         <option value="package:mine KwaiPaysdk" />
-        <option value="package:mine ==============buffer" />
       </list>
     </option>
   </component>
