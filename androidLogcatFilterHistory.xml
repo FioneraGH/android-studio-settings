@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine YTechGift" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine YTechGift" />
         <option value="package:mine " />
+        <option value="package:mine SVGARoomGiftPreview" />
+        <option value="package:mine YTechGift" />
         <option value="package:mine GLThread" />
         <option value="package:mine" />
         <option value="package:mine KwaiPushSDK" />
@@ -22,7 +23,6 @@
         <option value="package:mine mp4" />
         <option value="package:mine ANDROID_" />
         <option value="package:mine CONSOLE" />
-        <option value="package:mine RealName" />
       </list>
     </option>
   </component>
