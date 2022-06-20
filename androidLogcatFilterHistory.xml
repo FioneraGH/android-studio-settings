@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine SVGA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SVGA" />
         <option value="package:mine " />
         <option value="package:mine SVGARoomGiftPreview" />
         <option value="package:mine YTechGift" />
@@ -22,7 +23,6 @@
         <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine mp4" />
         <option value="package:mine ANDROID_" />
-        <option value="package:mine CONSOLE" />
       </list>
     </option>
   </component>
