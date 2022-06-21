@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TbsDexLoaderWorkaround" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine TbsDexLoaderWorkaround" />
-        <option value="package:mine " />
-        <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine TbsDexLoaderWorkaround" />
+        <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine SVGA" />
         <option value="package:mine SVGARoomGiftPreview" />
         <option value="package:mine YTechGift" />
