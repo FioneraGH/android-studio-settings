@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SVGAParser" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine sendG" />
+        <option value="package:mine" />
         <option value="package:mine SVGAParser" />
         <option value="package:mine SVGA" />
         <option value="package:mine GiftPlayFling" />
-        <option value="package:mine " />
         <option value="package:mine SVGARoomGiftPreview" />
-        <option value="package:mine" />
         <option value="package:mine TbsDexLoaderWorkaround" />
         <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine YTechGift" />
@@ -22,7 +23,6 @@
         <option value="package:mine DeviceLevelManager" />
         <option value="package:mine createO" />
         <option value="package:mine creat" />
-        <option value="package:mine createo" />
       </list>
     </option>
   </component>
