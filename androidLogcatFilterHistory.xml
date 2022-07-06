@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine KtvRoomLogger" />
         <option value="package:mine " />
         <option value="package:mine YTech" />
         <option value="package:mine GiftPlayFling" />
-        <option value="package:mine" />
         <option value="package:mine sendG" />
         <option value="package:mine SVGAParser" />
         <option value="package:mine SVGA" />
@@ -22,7 +22,6 @@
         <option value="DeviceIdProvider" />
         <option value="package:mine DeviceIdProvider" />
         <option value="package:mine DeviceLevelManager" />
-        <option value="package:mine createO" />
       </list>
     </option>
   </component>
