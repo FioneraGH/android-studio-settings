@@ -1,10 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:min SEND_GIFT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:min SEND_GIFT" />
+        <option value="package:min BATCH" />
+        <option value="package:min Batc" />
+        <option value="package:min " />
+        <option value="package:min" />
+        <option value="package:mine BATCH" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine KtvRoomLogger" />
-        <option value="package:mine " />
         <option value="package:mine YTech" />
         <option value="package:mine GiftPlayFling" />
         <option value="package:mine sendG" />
@@ -16,12 +23,6 @@
         <option value="package:mine YTechGift" />
         <option value="package:mine GLThread" />
         <option value="package:mine KwaiPushSDK" />
-        <option value="package:mine KwaiPushSdk" />
-        <option value="package:mine DeviceId" />
-        <option value="package:mine Push" />
-        <option value="DeviceIdProvider" />
-        <option value="package:mine DeviceIdProvider" />
-        <option value="package:mine DeviceLevelManager" />
       </list>
     </option>
   </component>
