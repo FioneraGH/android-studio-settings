@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine YodaLog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine YodaLog" />
         <option value="package:mine" />
         <option value="package:min" />
         <option value="package:min SEND_GIFT" />
@@ -22,7 +23,6 @@
         <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine YTechGift" />
         <option value="package:mine GLThread" />
-        <option value="package:mine KwaiPushSDK" />
       </list>
     </option>
   </component>
