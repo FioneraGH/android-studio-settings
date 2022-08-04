@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine YodaLog" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine YodaLog" />
         <option value="package:mine" />
+        <option value="package:mine YodaLog" />
         <option value="package:min" />
         <option value="package:min SEND_GIFT" />
         <option value="package:min BATCH" />
