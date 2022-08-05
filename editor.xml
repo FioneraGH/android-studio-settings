@@ -4,9 +4,20 @@
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
   <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
+        <option value="problems" />
         <option value="references" />
+        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
@@ -20,7 +31,49 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Groovy.groovy.implicit.null.argument.hint" />
+        <option value="Groovy.groovy.parameters.hints" />
+        <option value="Groovy.groovy.variable.type.hints" />
+        <option value="JAVA.annotation.hints" />
+        <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="ObjectiveC.oc.type.hints" />
+        <option value="kotlin.kotlin.call.chains.hints" />
+        <option value="kotlin.kotlin.lambdas.hints" />
+        <option value="kotlin.kotlin.ranges.hints" />
+        <option value="kotlin.kotlin.references.types.hints" />
+      </set>
+    </option>
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value=".references" />
+    <settingsMapElement>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showDeducedReturnTypes" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForVariables" value="false" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
+      <Groovy.groovy.parameters.hints>
+        <Settings>
+          <option name="showInferredParameterTypes" value="false" />
+          <option name="showTypeParameterList" value="false" />
+        </Settings>
+      </Groovy.groovy.parameters.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="implicitReceiversAndParams" value="false" />
+          <option name="returnExpressions" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
+    </settingsMapElement>
   </component>
 </application>
