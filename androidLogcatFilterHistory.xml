@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="gc" />
     <option name="nonFavorites">
       <list>
-        <option value="gc" />
         <option value="package:mine " />
+        <option value="gc" />
         <option value="package:mine FileResourceHelper" />
         <option value="package:mine" />
         <option value="package:mine YodaLog" />
