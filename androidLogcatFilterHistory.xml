@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine -------------" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -------------" />
         <option value="package:mine " />
         <option value="gc" />
         <option value="package:mine FileResourceHelper" />
@@ -21,7 +23,6 @@
         <option value="package:mine SVGA" />
         <option value="package:mine SVGARoomGiftPreview" />
         <option value="package:mine TbsDexLoaderWorkaround" />
-        <option value="package:mine PrivacyMethodHook" />
       </list>
     </option>
   </component>
