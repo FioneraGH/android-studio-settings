@@ -45,6 +45,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -172,6 +173,20 @@
                   <option value="com.intellij.modules.xdebugger" />
                   <option value="com.intellij.modules.xml" />
                   <option value="org.jetbrains.plugins.gradle" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.gct.directaccess">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.google.gct.login" />
+                  <option value="com.google.gct.testing" />
+                  <option value="org.jetbrains.android" />
                 </set>
               </option>
               <option name="enabled" value="false" />
