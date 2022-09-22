@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine BarrageScale" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BarrageScale" />
         <option value="package:mine" />
         <option value="package:mine TESTRESULT" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine sendG" />
         <option value="package:mine SVGAParser" />
         <option value="package:mine SVGA" />
-        <option value="package:mine SVGARoomGiftPreview" />
       </list>
     </option>
   </component>
