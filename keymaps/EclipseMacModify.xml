@@ -1,4 +1,19 @@
 <keymap version="1" name="EclipseMacModify" parent="Eclipse (Mac OS X)">
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Move" />
   <action id="Diff.ApplyLeftSide" />
