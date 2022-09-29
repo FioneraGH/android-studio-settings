@@ -15,7 +15,6 @@
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
