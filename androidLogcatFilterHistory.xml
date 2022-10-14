@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine callJS" />
         <option value="package:mine ExposeManager" />
         <option value="package:mine BarrageScale" />
         <option value="package:mine TESTRESULT" />
-        <option value="package:mine " />
         <option value="package:mine -------------" />
         <option value="gc" />
         <option value="package:mine FileResourceHelper" />
