@@ -8,7 +8,6 @@
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.pro</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +17,6 @@
     <mask>*.kts</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.pro</mask>
   </component>
 </application>
