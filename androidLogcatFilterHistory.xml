@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine lookup" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine lookup" />
         <option value="package:mine lookup -&gt;" />
         <option value="package:mine lottie" />
-        <option value="package:mine " />
         <option value="package:mine Resou" />
         <option value="package:mine handleSignalMessage" />
         <option value="package:mine" />
