@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine lottie" />
+    <option name="mostRecentlyUsed" value="package:mine lookup" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine lookup" />
+        <option value="package:mine lookup -&gt;" />
         <option value="package:mine lottie" />
         <option value="package:mine " />
         <option value="package:mine Resou" />
@@ -21,8 +23,6 @@
         <option value="package:min BATCH" />
         <option value="package:min Batc" />
         <option value="package:min " />
-        <option value="package:mine BATCH" />
-        <option value="package:mine KtvRoomLogger" />
       </list>
     </option>
   </component>
