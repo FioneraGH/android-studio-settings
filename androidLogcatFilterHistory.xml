@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine gid" />
+    <option name="mostRecentlyUsed" value="package:mine PrivacyMethodHook" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine gid" />
         <option value="package:mine " />
         <option value="package:mine lookup" />
@@ -22,7 +23,6 @@
         <option value="package:min" />
         <option value="package:min SEND_GIFT" />
         <option value="package:min BATCH" />
-        <option value="package:min Batc" />
       </list>
     </option>
   </component>
