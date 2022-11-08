@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LivePkMatch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine LivePkMatch" />
         <option value="package:mine" />
         <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine gid" />
-        <option value="package:mine " />
         <option value="package:mine lookup" />
         <option value="package:mine lookup -&gt;" />
         <option value="package:mine lottie" />
