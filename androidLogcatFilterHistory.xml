@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine LivePkM" />
         <option value="package:mine " />
         <option value="package:mine LivePkMatc" />
         <option value="package:mine LivePkMatch" />
-        <option value="package:mine" />
         <option value="package:mine PrivacyMethodHook" />
         <option value="package:mine gid" />
         <option value="package:mine lookup" />
@@ -21,7 +23,6 @@
         <option value="gc" />
         <option value="package:mine FileResourceHelper" />
         <option value="package:mine YodaLog" />
-        <option value="package:min" />
       </list>
     </option>
   </component>
