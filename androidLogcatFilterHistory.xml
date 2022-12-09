@@ -4,12 +4,13 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine asr" />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:com.kwai.hisense asr" />
         <option value="package:mine OkHttpDispatcher" />
         <option value="package:mine KwaiDns" />
         <option value="package:mine DiffCallBackResult" />
         <option value="package:mine LivePkM" />
-        <option value="package:mine" />
         <option value="package:mine LivePkMatc" />
         <option value="package:mine LivePkMatch" />
         <option value="package:mine PrivacyMethodHook" />
@@ -22,7 +23,6 @@
         <option value="package:mine callJS" />
         <option value="package:mine ExposeManager" />
         <option value="package:mine BarrageScale" />
-        <option value="package:mine TESTRESULT" />
       </list>
     </option>
   </component>
