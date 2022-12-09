@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine asr" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine asr" />
+        <option value="package:mine " />
         <option value="package:mine OkHttpDispatcher" />
         <option value="package:mine KwaiDns" />
         <option value="package:mine DiffCallBackResult" />
