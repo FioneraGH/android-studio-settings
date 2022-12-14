@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine gid" />
+    <option name="mostRecentlyUsed" value="package:mine DFPInitTrace" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine gid" />
+        <option value="package:mine DFPInitTrace" />
         <option value="package:mine " />
+        <option value="package:mine device" />
+        <option value="package:mine mine" />
+        <option value="package:mine gid" />
         <option value="package:mine asr" />
         <option value="package:mine" />
         <option value="package:mine Expect" />
@@ -20,9 +23,6 @@
         <option value="package:mine lookup -&gt;" />
         <option value="package:mine lottie" />
         <option value="package:mine Resou" />
-        <option value="package:mine handleSignalMessage" />
-        <option value="package:mine callJS" />
-        <option value="package:mine ExposeManager" />
       </list>
     </option>
   </component>
