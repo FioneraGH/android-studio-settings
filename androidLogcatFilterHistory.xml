@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine KwaiPush" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine KwaiPush" />
         <option value="package:mine " />
+        <option value="package:mine 配置不正确" />
+        <option value="package:mine KwaiP" />
+        <option value="package:mine KwaiPus" />
+        <option value="package:mine Push" />
         <option value="package:mine screen/ad" />
         <option value="package:mine did" />
         <option value="package:mine gi" />
@@ -17,11 +23,6 @@
         <option value="package:com.kwai.hisense asr" />
         <option value="package:mine OkHttpDispatcher" />
         <option value="package:mine KwaiDns" />
-        <option value="package:mine DiffCallBackResult" />
-        <option value="package:mine LivePkM" />
-        <option value="package:mine LivePkMatc" />
-        <option value="package:mine LivePkMatch" />
-        <option value="package:mine PrivacyMethodHook" />
       </list>
     </option>
   </component>
