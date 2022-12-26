@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KwaiPush" />
+    <option name="mostRecentlyUsed" value="package:mine ROOM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ROOM" />
+        <option value="package:mine INFO" />
         <option value="package:mine KwaiPush" />
         <option value="package:mine " />
         <option value="package:mine 配置不正确" />
@@ -21,8 +23,6 @@
         <option value="package:mine asr" />
         <option value="package:mine Expect" />
         <option value="package:com.kwai.hisense asr" />
-        <option value="package:mine OkHttpDispatcher" />
-        <option value="package:mine KwaiDns" />
       </list>
     </option>
   </component>
