@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ROOM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ROOM" />
         <option value="package:mine INFO" />
         <option value="package:mine KwaiPush" />
-        <option value="package:mine " />
         <option value="package:mine 配置不正确" />
         <option value="package:mine KwaiP" />
         <option value="package:mine KwaiPus" />
