@@ -5,23 +5,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="300ba5c7" />
-          </Key>
-        </key>
-        <name value="Xiaomi Redmi K30i 5G" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="66B0220928004498" />
           </Key>
         </key>
         <name value="HUAWEI OXF-AN10" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R5CT824DYNK" />
+          </Key>
+        </key>
+        <name value="samsung SM-F721N" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="300ba5c7" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi K30i 5G" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
