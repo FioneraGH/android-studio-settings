@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine IMSDK" />
         <option value="package:mine" />
         <option value="package:mine SVGAParser" />
-        <option value="package:mine " />
         <option value="package:mine ROOM" />
         <option value="package:mine INFO" />
         <option value="package:mine KwaiPush" />
@@ -22,7 +22,6 @@
         <option value="package:mine mine" />
         <option value="package:mine gid" />
         <option value="package:mine asr" />
-        <option value="package:mine Expect" />
       </list>
     </option>
   </component>
