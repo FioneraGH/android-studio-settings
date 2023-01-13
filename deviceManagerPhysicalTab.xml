@@ -144,6 +144,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6847966" />
+          </Key>
+        </key>
+        <name value="OPPO A57" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
