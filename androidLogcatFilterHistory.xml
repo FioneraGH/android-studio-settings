@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine TEST========" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TEST========" />
+        <option value="package:mine TEST==" />
         <option value="package:mine " />
         <option value="package:mine tbs" />
         <option value="package:mine" />
@@ -20,8 +23,6 @@
         <option value="package:mine gi" />
         <option value="package:mine PushSDK" />
         <option value="package:mine DFPInitTrace" />
-        <option value="package:mine device" />
-        <option value="package:mine mine" />
       </list>
     </option>
   </component>
