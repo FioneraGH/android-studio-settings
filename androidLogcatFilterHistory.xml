@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine followTip" />
+        <option value="package:mine follow" />
         <option value="package:mine ClipPostTask" />
         <option value="package:mine error" />
         <option value="package:mine alias" />
@@ -20,8 +22,6 @@
         <option value="package:mine KwaiP" />
         <option value="package:mine KwaiPus" />
         <option value="package:mine Push" />
-        <option value="package:mine screen/ad" />
-        <option value="package:mine did" />
       </list>
     </option>
   </component>
