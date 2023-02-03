@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine followTip" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine followTip" />
         <option value="package:mine " />
+        <option value="package:mine followTip" />
         <option value="package:mine follow" />
         <option value="package:mine ClipPostTask" />
         <option value="package:mine error" />
