@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fans" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine relation/" />
+        <option value="package:mine relation" />
         <option value="package:mine fans" />
         <option value="package:mine " />
         <option value="package:mine followTip" />
@@ -10,7 +13,6 @@
         <option value="package:mine ClipPostTask" />
         <option value="package:mine error" />
         <option value="package:mine alias" />
-        <option value="package:mine" />
         <option value="package:mine TEST========" />
         <option value="package:mine TEST==" />
         <option value="package:mine tbs" />
@@ -21,8 +23,6 @@
         <option value="package:mine INFO" />
         <option value="package:mine KwaiPush" />
         <option value="package:mine 配置不正确" />
-        <option value="package:mine KwaiP" />
-        <option value="package:mine KwaiPus" />
       </list>
     </option>
   </component>
