@@ -52,6 +52,10 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="StreamingToolbarVirtualDevice" is_group="true" forse_popup="false" action_type="-1" position="16">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EmulatorToolbar" is_group="true" forse_popup="false" action_type="-1" position="16">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -156,12 +160,22 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.MainToolbarRight" is_group="true" forse_popup="false" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="MainToolbarCenter" is_group="true" forse_popup="false" action_type="-1" position="2">
       <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunToolbarWidgetCustomizableActionGroup" is_group="true" forse_popup="false" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
@@ -172,7 +186,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunToolbarWidgetCustomizableActionGroup" is_group="true" forse_popup="false" action_type="-1" position="1">
+    <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
@@ -190,7 +204,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
+    <group value="DeviceAndSnapshotComboBox" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
