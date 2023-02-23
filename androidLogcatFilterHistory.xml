@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine YTechGift" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine YTechGift" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="TESTPOS==" />
         <option value="package:mine relation" />
-        <option value="package:mine" />
         <option value="package:mine relation/" />
         <option value="package:mine fans" />
         <option value="package:mine followTip" />
@@ -21,7 +23,6 @@
         <option value="package:mine SVGAParser" />
         <option value="package:mine ROOM" />
         <option value="package:mine INFO" />
-        <option value="package:mine KwaiPush" />
       </list>
     </option>
   </component>
