@@ -16,6 +16,7 @@
       <mapping ext="store" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
+      <mapping ext="ex" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
