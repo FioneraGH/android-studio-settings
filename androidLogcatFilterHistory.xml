@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Ytech" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Ytech" />
         <option value="package:mine " />
         <option value="package:mine YTechGift" />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:mine IMSDK" />
         <option value="package:mine SVGAParser" />
         <option value="package:mine ROOM" />
-        <option value="package:mine INFO" />
       </list>
     </option>
   </component>
