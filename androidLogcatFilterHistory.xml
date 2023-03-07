@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine system/config" />
         <option value="package:mine system" />
         <option value="level:error " />
-        <option value="package:mine" />
         <option value="package:mine Explicit concurrent copying GC" />
         <option value="package:mine Ytech" />
         <option value="package:mine YTechGift" />
