@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine HEARTPRINT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HEARTPRINT" />
         <option value="package:mine " />
         <option value="package:mine ENTER" />
         <option value="package:mine BIND_PHONE" />
@@ -21,7 +23,6 @@
         <option value="package:mine follow" />
         <option value="package:mine ClipPostTask" />
         <option value="package:mine error" />
-        <option value="package:mine alias" />
       </list>
     </option>
   </component>
