@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HEARTPRINT" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine HEARTPRINT" />
         <option value="package:mine " />
         <option value="package:mine ENTER" />
         <option value="package:mine BIND_PHONE" />
-        <option value="package:mine" />
         <option value="package:mine BottomSheet" />
         <option value="package:mine system/config" />
         <option value="package:mine system" />
