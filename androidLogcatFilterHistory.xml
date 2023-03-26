@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine KtvRoomLogger" />
         <option value="package:mine KtvRoomL" />
-        <option value="package:mine " />
         <option value="package:mine tag:okhttp " />
         <option value="package:mine DUETCARD" />
         <option value="package:mine HEARTPRINT" />
@@ -22,7 +23,6 @@
         <option value="TESTPOS==" />
         <option value="package:mine relation" />
         <option value="package:mine relation/" />
-        <option value="package:mine fans" />
       </list>
     </option>
   </component>
