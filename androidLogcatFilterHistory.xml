@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine KwaiSharePublishActivity" />
+        <option value="package:mine tag:KwaiSharePublishActivity" />
         <option value="package:mine" />
         <option value="package:mine 网络错" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine Explicit concurrent copying GC" />
         <option value="package:mine Ytech" />
         <option value="package:mine YTechGift" />
-        <option value="TESTPOS==" />
       </list>
     </option>
   </component>
