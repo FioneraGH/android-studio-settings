@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine ERROR_HAN" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ERROR_HAN" />
         <option value="package:mine " />
         <option value="package:mine KwaiSharePublishActivity" />
         <option value="package:mine tag:KwaiSharePublishActivity" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="package:mine Explicit concurrent copying GC" />
         <option value="package:mine Ytech" />
-        <option value="package:mine YTechGift" />
       </list>
     </option>
   </component>
