@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine VideoDecoder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine VideoDecoder" />
+        <option value="package:mine NativeRender" />
         <option value="package:mine " />
+        <option value="package:mine Decoder" />
         <option value="package:mine ERROR_HAN" />
         <option value="package:mine KwaiSharePublishActivity" />
         <option value="package:mine tag:KwaiSharePublishActivity" />
@@ -19,9 +23,6 @@
         <option value="package:mine BottomSheet" />
         <option value="package:mine system/config" />
         <option value="package:mine system" />
-        <option value="level:error " />
-        <option value="package:mine Explicit concurrent copying GC" />
-        <option value="package:mine Ytech" />
       </list>
     </option>
   </component>
