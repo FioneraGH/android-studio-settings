@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine =====test" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine =====test" />
         <option value="package:mine " />
         <option value="package:mine VideoDecoder" />
         <option value="package:mine NativeRender" />
@@ -21,7 +23,6 @@
         <option value="package:mine BIND_PHONE" />
         <option value="package:mine BottomSheet" />
         <option value="package:mine system/config" />
-        <option value="package:mine system" />
       </list>
     </option>
   </component>
