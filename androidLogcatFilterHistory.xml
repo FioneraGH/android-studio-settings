@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine ComboGiftBottomManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ComboGiftBottomManager" />
+        <option value="package:mine send combo" />
         <option value="package:mine " />
+        <option value="package:mine mManager" />
+        <option value="package:mine ComboGift" />
         <option value="package:mine =====test" />
         <option value="package:mine VideoDecoder" />
         <option value="package:mine NativeRender" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:okhttp " />
         <option value="package:mine DUETCARD" />
         <option value="package:mine HEARTPRINT" />
-        <option value="package:mine ENTER" />
-        <option value="package:mine BIND_PHONE" />
-        <option value="package:mine BottomSheet" />
-        <option value="package:mine system/config" />
       </list>
     </option>
   </component>

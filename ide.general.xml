@@ -29,6 +29,7 @@
         <entry key="Position" value="false" />
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
+        <entry key="VFS_REFRESH" value="true" />
       </map>
     </option>
   </component>
