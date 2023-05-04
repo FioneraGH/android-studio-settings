@@ -1,6 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="TouchBar" is_group="true" forse_popup="false" action_type="-1" position="22">
+    <group value="TouchBar" is_group="true" forse_popup="false" action_type="-1" position="23">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="22">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -8,7 +12,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="21">
+    <group value="Vcs.Log.Toolbar.RightCorner" is_group="true" forse_popup="false" action_type="-1" position="21">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -32,7 +36,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunToolbarWidgetCustomizableActionGroup" is_group="true" forse_popup="false" action_type="-1" position="18">
+    <group value="RunTab.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="18">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -40,7 +44,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Markdown.Toolbar.Floating" is_group="true" forse_popup="false" action_type="-1" position="17">
+    <group value="RunTab.TopToolbar.More" is_group="true" forse_popup="false" action_type="-1" position="17">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -48,7 +52,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StreamingToolbarVirtualDevice" is_group="true" forse_popup="false" action_type="-1" position="16">
+    <group value="Markdown.Toolbar.Floating" is_group="true" forse_popup="false" action_type="-1" position="16">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -60,7 +64,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="15">
+    <group value="Vcs.FileHistory.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="15">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -68,7 +72,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.ToolWindow.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="14">
+    <group value="StreamingToolbarVirtualDevice" is_group="true" forse_popup="false" action_type="-1" position="14">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -76,7 +80,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.ToolWindow.LeftToolbar" is_group="true" forse_popup="false" action_type="-1" position="13">
+    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="13">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -132,6 +136,11 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="FavoritesViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -156,11 +165,16 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.MainToolbarRight" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.MainToolbarRight" is_group="true" forse_popup="false" action_type="-1" position="3">
+    <group value="StopWithDropDown" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
@@ -173,7 +187,7 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunToolbarWidgetCustomizableActionGroup" is_group="true" forse_popup="false" action_type="-1" position="2">
+    <group value="NewUiRunWidget" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
