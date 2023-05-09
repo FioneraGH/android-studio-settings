@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine ElevationActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ElevationActivity" />
         <option value="package:mine " />
         <option value="package:mine ComboGiftBottomManager" />
         <option value="paomboGiftBottomManager" />
@@ -21,7 +23,6 @@
         <option value="package:mine KtvRoomLogger" />
         <option value="package:mine KtvRoomL" />
         <option value="package:mine tag:okhttp " />
-        <option value="package:mine DUETCARD" />
       </list>
     </option>
   </component>
