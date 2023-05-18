@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ElevationActivity" />
+    <option name="mostRecentlyUsed" value="package:mine WindowMetricsTag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WindowMetricsTag" />
+        <option value="package:mine WindowMetrics" />
         <option value="package:mine " />
         <option value="package:mine ElevationActivity" />
         <option value="package:mine ComboGiftBottomManager" />
@@ -21,8 +23,6 @@
         <option value="package:mine 网络错" />
         <option value="package:mine level:error " />
         <option value="package:mine KtvRoomLogger" />
-        <option value="package:mine KtvRoomL" />
-        <option value="package:mine tag:okhttp " />
       </list>
     </option>
   </component>
