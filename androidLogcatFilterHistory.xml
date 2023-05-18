@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine weapon" />
         <option value="package:mine" />
         <option value="package:mine WindowMetricTag" />
         <option value="package:mine WindowMetricsTag" />
@@ -21,7 +22,6 @@
         <option value="package:mine KwaiSharePublishActivity" />
         <option value="package:mine tag:KwaiSharePublishActivity" />
         <option value="package:mine 网络错" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
