@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WindowMetricsTag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine WindowMetricTag" />
         <option value="package:mine WindowMetricsTag" />
         <option value="package:mine WindowMetrics" />
-        <option value="package:mine " />
         <option value="package:mine ElevationActivity" />
         <option value="package:mine ComboGiftBottomManager" />
         <option value="paomboGiftBottomManager" />
@@ -19,10 +20,8 @@
         <option value="package:mine ERROR_HAN" />
         <option value="package:mine KwaiSharePublishActivity" />
         <option value="package:mine tag:KwaiSharePublishActivity" />
-        <option value="package:mine" />
         <option value="package:mine 网络错" />
         <option value="package:mine level:error " />
-        <option value="package:mine KtvRoomLogger" />
       </list>
     </option>
   </component>
