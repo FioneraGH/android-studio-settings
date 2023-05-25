@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.kwai.hisense " />
+    <option name="mostRecentlyUsed" value="package:com.kwai.hisense privacyMethod" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kwai.hisense privacyMethod" />
+        <option value="package:com.kwai.hisense ----" />
         <option value="package:com.kwai.hisense " />
         <option value="package:mine " />
         <option value="package:mine weapon" />
@@ -21,8 +23,6 @@
         <option value="package:mine NativeRender" />
         <option value="package:mine Decoder" />
         <option value="package:mine ERROR_HAN" />
-        <option value="package:mine KwaiSharePublishActivity" />
-        <option value="package:mine tag:KwaiSharePublishActivity" />
       </list>
     </option>
   </component>
