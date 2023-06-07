@@ -1,5 +1,6 @@
 <application>
-  <component name="DeviceMirroringSettings">
+  <component name="DeviceMirroringSettingsV2">
+    <option name="activateOnAppLaunch" value="false" />
     <option name="confirmationDialogShown" value="true" />
   </component>
 </application>
