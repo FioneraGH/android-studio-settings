@@ -5,5 +5,6 @@
     <notification groupId="Kotlin plugin updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Plugin Errors" displayType="NONE" />
     <notification groupId="UnifiedDeployTask" displayType="NONE" />
+    <notification groupId="Update Kotlin code style" displayType="NONE" />
   </component>
 </application>
