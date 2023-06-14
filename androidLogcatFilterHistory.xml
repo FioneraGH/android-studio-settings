@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onDestroy" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onDestroy" />
+        <option value="package:mine onStop" />
         <option value="package:mine " />
         <option value="package:com.kwai.hisense privacyMethod" />
         <option value="package:com.kwai.hisense ----" />
@@ -20,8 +23,6 @@
         <option value="package:mine =====test" />
         <option value="package:mine VideoDecoder" />
         <option value="package:mine NativeRender" />
-        <option value="package:mine Decoder" />
-        <option value="package:mine ERROR_HAN" />
       </list>
     </option>
   </component>
