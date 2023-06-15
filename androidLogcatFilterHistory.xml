@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onDestroy" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onDestroy" />
         <option value="package:mine onStop" />
-        <option value="package:mine " />
         <option value="package:com.kwai.hisense privacyMethod" />
         <option value="package:com.kwai.hisense ----" />
         <option value="package:com.kwai.hisense " />
