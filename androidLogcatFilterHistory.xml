@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine TAGTAGTAG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TAGTAGTAG" />
         <option value="package:mine " />
         <option value="package:mine onDestroy" />
         <option value="package:mine onStop" />
@@ -21,7 +23,6 @@
         <option value="package:mine ComboGift" />
         <option value="package:mine =====test" />
         <option value="package:mine VideoDecoder" />
-        <option value="package:mine NativeRender" />
       </list>
     </option>
   </component>
