@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine -- process" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -- process" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
+        <option value="package:mine -- PROCESS " />
+        <option value="package:mine PROCESS " />
         <option value="package:mine ViewTransientState" />
         <option value="package:mine TAGTAGTAG" />
         <option value="package:mine onDestroy" />
@@ -20,9 +23,6 @@
         <option value="package:mine ElevationActivity" />
         <option value="package:mine ComboGiftBottomManager" />
         <option value="paomboGiftBottomManager" />
-        <option value="package:mine send combo" />
-        <option value="package:mine mManager" />
-        <option value="package:mine ComboGift" />
       </list>
     </option>
   </component>
