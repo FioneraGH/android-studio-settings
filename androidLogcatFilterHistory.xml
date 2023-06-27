@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -- process" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine -- process" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine -- PROCESS " />
         <option value="package:mine PROCESS " />
         <option value="package:mine ViewTransientState" />
