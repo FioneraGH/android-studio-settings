@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="DISABLE_JIT" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -100,6 +101,7 @@
       <debugger id="ObjectiveC">
         <configuration>
           <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
+          <nt-symbol-settings />
           <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
