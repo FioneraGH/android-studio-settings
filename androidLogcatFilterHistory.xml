@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine FragmentTransactionActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine FragmentTransactionActivity" />
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine face_recognition" />
         <option value="package:mine tag:face_recognition" />
-        <option value="package:mine level:error " />
         <option value="package:mine -- process" />
         <option value="package:mine -- PROCESS " />
         <option value="package:mine PROCESS " />
@@ -21,7 +23,6 @@
         <option value="package:mine WindowMetricTag" />
         <option value="package:mine WindowMetricsTag" />
         <option value="package:mine WindowMetrics" />
-        <option value="package:mine ElevationActivity" />
       </list>
     </option>
   </component>
