@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine HomeFeedDuet" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine HomeFeedDuetUserE" />
+        <option value="package:mine HomeFeedDuet" />
         <option value="package:mine " />
+        <option value="package:mine HomeFeedDuetUserE" />
         <option value="package:min" />
         <option value="package:mine level:error " />
         <option value="package:mine FragmentTransactionActivity" />
@@ -22,7 +23,6 @@
         <option value="package:com.kwai.hisense " />
         <option value="package:mine weapon" />
         <option value="package:mine" />
-        <option value="package:mine WindowMetricTag" />
       </list>
     </option>
   </component>
