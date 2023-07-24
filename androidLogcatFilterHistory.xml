@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine HomeFeedDuet" />
         <option value="package:mine HomeFeedDuetUserE" />
         <option value="package:min" />
-        <option value="package:mine level:error " />
         <option value="package:mine FragmentTransactionActivity" />
         <option value="package:mine face_recognition" />
         <option value="package:mine tag:face_recognition" />
