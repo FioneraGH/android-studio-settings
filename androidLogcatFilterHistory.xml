@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine setCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine setCookie" />
         <option value="package:mine injectCookie" />
         <option value="package:mine reflect " />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine HomeFeedDuet" />
         <option value="package:mine HomeFeedDuetUserE" />
         <option value="package:min" />
