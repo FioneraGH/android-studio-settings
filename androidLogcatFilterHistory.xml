@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine roomId" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine roomId" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine setCookie" />
@@ -21,7 +23,6 @@
         <option value="package:mine onDestroy" />
         <option value="package:mine onStop" />
         <option value="package:com.kwai.hisense privacyMethod" />
-        <option value="package:com.kwai.hisense ----" />
       </list>
     </option>
   </component>
