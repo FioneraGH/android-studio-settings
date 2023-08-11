@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine changeUserRole" />
+    <option name="mostRecentlyUsed" value="package:mine ChorusCheckRole" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ChorusCheckRole" />
         <option value="package:mine changeUserRole" />
         <option value="package:mine " />
         <option value="package:mine login" />
@@ -22,7 +23,6 @@
         <option value="package:mine -- process" />
         <option value="package:mine -- PROCESS " />
         <option value="package:mine PROCESS " />
-        <option value="package:mine ViewTransientState" />
       </list>
     </option>
   </component>
