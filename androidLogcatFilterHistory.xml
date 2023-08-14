@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine startChorus" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine startChorus" />
         <option value="package:mine AryaIRtcManager" />
-        <option value="package:mine " />
         <option value="package:mine ChorusCheckRole" />
         <option value="package:mine changeUserRole" />
         <option value="package:mine login" />
