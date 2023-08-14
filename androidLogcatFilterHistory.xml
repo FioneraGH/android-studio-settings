@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine AryaIRtcManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AryaIRtcManager" />
+        <option value="package:mine startChorus" />
         <option value="package:mine " />
         <option value="package:mine ChorusCheckRole" />
         <option value="package:mine changeUserRole" />
@@ -20,8 +23,6 @@
         <option value="package:mine face_recognition" />
         <option value="package:mine tag:face_recognition" />
         <option value="package:mine -- process" />
-        <option value="package:mine -- PROCESS " />
-        <option value="package:mine PROCESS " />
       </list>
     </option>
   </component>
