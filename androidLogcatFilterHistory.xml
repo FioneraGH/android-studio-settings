@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine jitterBufferDelay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine jitterBufferDelay" />
+        <option value="package:mine KtvRoomLogger" />
+        <option value="package:mine startChorus" />
+        <option value="package:mine start" />
         <option value="package:mine" />
         <option value="package:mine onRemoteAudioStats" />
         <option value="package:mine chorus onRemoteAudioStats" />
         <option value="package:mine ChorusInfoOverride" />
         <option value="package:mine ChorusInfoOver" />
         <option value="package:mine " />
-        <option value="package:mine startChorus" />
         <option value="package:mine AryaIRtcManager" />
         <option value="package:mine ChorusCheckRole" />
         <option value="package:mine changeUserRole" />
@@ -20,9 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine setCookie" />
         <option value="package:mine injectCookie" />
-        <option value="package:mine reflect " />
-        <option value="package:mine HomeFeedDuet" />
-        <option value="package:mine HomeFeedDuetUserE" />
       </list>
     </option>
   </component>
