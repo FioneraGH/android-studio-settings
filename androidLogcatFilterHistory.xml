@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ChorusInfoOverride" />
+    <option name="mostRecentlyUsed" value="package:mine onRemoteAudioStats" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onRemoteAudioStats" />
+        <option value="package:mine chorus onRemoteAudioStats" />
         <option value="package:mine ChorusInfoOverride" />
         <option value="package:mine ChorusInfoOver" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine HomeFeedDuet" />
         <option value="package:mine HomeFeedDuetUserE" />
         <option value="package:min" />
-        <option value="package:mine FragmentTransactionActivity" />
-        <option value="package:mine face_recognition" />
       </list>
     </option>
   </component>
