@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onChorusUserLatencyInfo" />
-        <option value="package:mine " />
         <option value="package:mine updateChorusSingerInfo" />
+        <option value="package:mine " />
         <option value="package:mine minus" />
         <option value="package:mine jitterBufferDelay" />
         <option value="package:mine KtvRoomLogger" />
