@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine minus" />
+    <option name="mostRecentlyUsed" value="package:mine updateChorusSingerInfo" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine minus" />
+        <option value="package:mine updateChorusSingerInfo" />
         <option value="package:mine " />
+        <option value="package:mine minus" />
         <option value="package:mine jitterBufferDelay" />
         <option value="package:mine KtvRoomLogger" />
         <option value="package:mine startChorus" />
@@ -22,7 +23,6 @@
         <option value="package:mine ChorusResultFragment" />
         <option value="package:mine roomId" />
         <option value="package:mine level:error " />
-        <option value="package:mine setCookie" />
       </list>
     </option>
   </component>
