@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine updateChorusSingerInfo" />
+        <option value="package:mine onChorusUserLatencyInfo" />
         <option value="package:mine " />
         <option value="package:mine minus" />
         <option value="package:mine jitterBufferDelay" />
@@ -22,7 +23,6 @@
         <option value="package:mine uniaccount" />
         <option value="package:mine ChorusResultFragment" />
         <option value="package:mine roomId" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
