@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine updateChorus" />
+    <option name="mostRecentlyUsed" value="package:mine updateChorusSingerIn" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine updateChorusSingerIn" />
+        <option value="package:mine updateChorusSingingIn" />
         <option value="package:mine updateChorus" />
         <option value="package:mine updateChorusSingerInfo " />
         <option value="package:mine onChorus " />
@@ -21,8 +23,6 @@
         <option value="package:mine startChorus" />
         <option value="package:mine start" />
         <option value="package:mine" />
-        <option value="package:mine onRemoteAudioStats" />
-        <option value="package:mine chorus onRemoteAudioStats" />
       </list>
     </option>
   </component>
