@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine updateChorusSinger " />
+    <option name="mostRecentlyUsed" value="package:mine updateChorusSingerInfo " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine updateChorusSingerInfo " />
+        <option value="package:mine onChorus " />
         <option value="package:mine updateChorusSinger " />
         <option value="package:mine updateChorusSin" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine onRemoteAudioStats" />
         <option value="package:mine chorus onRemoteAudioStats" />
         <option value="package:mine ChorusInfoOverride" />
-        <option value="package:mine ChorusInfoOver" />
-        <option value="package:mine AryaIRtcManager" />
       </list>
     </option>
   </component>
