@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="package:mine updateChorusSingerInfo" />
         <option value="package:mine updateChorusSingerIn" />
         <option value="package:mine updateChorusSingingIn" />
@@ -21,7 +22,6 @@
         <option value="package:mine KtvRoomLogger" />
         <option value="package:mine startChorus" />
         <option value="package:mine start" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
