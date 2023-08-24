@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine updateChorusSinger" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine updateChorusSinger" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine updateChorusSingerInfo" />
@@ -14,7 +16,6 @@
         <option value="package:mine updateChorusSin" />
         <option value="package:mine onChorus" />
         <option value="package:mine onChorusUserLatencyInfo" />
-        <option value="package:mine updateChorusSinger" />
         <option value="package:mine onChorusInfo channelId" />
         <option value="package:mine avg" />
         <option value="package:mine minus" />
