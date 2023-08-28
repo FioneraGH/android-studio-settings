@@ -2,42 +2,50 @@
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
     <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="7">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.MainToolbarRight" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="StopWithDropDown" is_action="true" action_type="-1" position="3">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewUiRunWidget" is_action="true" action_type="-1" position="2">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="1">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="DeviceAndSnapshotComboBox" is_action="true" action_type="-1" position="0">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.SyncProject" is_action="true" action_type="1" position="0">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="AndroidConnectDebuggerAction" is_action="true" action_type="1" position="1">
       <path value="root" />
-      <path value="Main Toolbar Right" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
