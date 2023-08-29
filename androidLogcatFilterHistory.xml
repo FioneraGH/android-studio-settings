@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KtvRoomManager" />
+    <option name="mostRecentlyUsed" value="package:mine AiChorusComposing" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AiChorusComposing" />
         <option value="package:mine KtvRoomManager" />
         <option value="package:mine onJoinChannelSuccess" />
         <option value="package:mine updateChorusSingerInfo" />
-        <option value="package:mine AiChorusComposing" />
         <option value="package:mine " />
         <option value="package:mine updateChorusSinger" />
         <option value="package:mine level:error " />
