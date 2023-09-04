@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine GiftPreloadManager" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine GiftPreloadManager" />
         <option value="package:mine " />
+        <option value="package:mine GiftPreloadManager" />
         <option value="package:mine BATCH_S" />
         <option value="package:mine level" />
         <option value="package:mine AiChorusComposing" />
