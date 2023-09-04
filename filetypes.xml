@@ -11,6 +11,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="mid" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
