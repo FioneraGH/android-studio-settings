@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine AudioEngine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AudioEngine" />
         <option value="package:mine " />
+        <option value="package:mine audioFrame" />
         <option value="package:mine GiftPreloadManager" />
         <option value="package:mine BATCH_S" />
         <option value="package:mine level" />
@@ -20,8 +23,6 @@
         <option value="package:mine updateChorusSinger " />
         <option value="package:mine updateChorusSin" />
         <option value="package:mine onChorus" />
-        <option value="package:mine onChorusUserLatencyInfo" />
-        <option value="package:mine onChorusInfo channelId" />
       </list>
     </option>
   </component>
