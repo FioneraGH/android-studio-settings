@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine AudioEngine" />
-        <option value="package:mine " />
         <option value="package:mine audioFrame" />
         <option value="package:mine GiftPreloadManager" />
         <option value="package:mine BATCH_S" />
