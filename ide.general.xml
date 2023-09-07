@@ -26,12 +26,12 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="ClangTidyStatusBarWidget" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
         <entry key="VFS_REFRESH" value="true" />
+        <entry key="ocResolveContextPanel" value="false" />
       </map>
     </option>
   </component>
