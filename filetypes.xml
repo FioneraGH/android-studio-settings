@@ -15,6 +15,7 @@
       <mapping ext="mid" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="c~" type="PLAIN_TEXT" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
       <mapping ext="ex" type="PLAIN_TEXT" />
