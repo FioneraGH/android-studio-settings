@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WayneLivePl" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine WayneLivePl" />
         <option value="package:mine " />
+        <option value="package:mine easymockserverbackend" />
+        <option value="package:mine WayneLivePl" />
         <option value="package:mine WayneLive" />
         <option value="package:mine level:error " />
         <option value="package:mine WayneLivePlayer" />
@@ -22,7 +22,6 @@
         <option value="package:mine updateChorusSingingIn" />
         <option value="package:mine updateChorus" />
         <option value="package:mine updateChorusSingerInfo " />
-        <option value="package:mine onChorus " />
       </list>
     </option>
   </component>
