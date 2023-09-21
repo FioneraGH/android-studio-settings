@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine CloudGameUnitActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameUnitActivity" />
         <option value="package:mine " />
         <option value="package:mine easymockserverbackend" />
         <option value="package:mine WayneLivePl" />
@@ -21,7 +23,6 @@
         <option value="package:mine updateChorusSingerIn" />
         <option value="package:mine updateChorusSingingIn" />
         <option value="package:mine updateChorus" />
-        <option value="package:mine updateChorusSingerInfo " />
       </list>
     </option>
   </component>
