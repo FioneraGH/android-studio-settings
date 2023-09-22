@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine upload:0" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine upload:0" />
         <option value="package:mine " />
+        <option value="package:mine upload:0" />
         <option value="package:mine MomentEditModel" />
         <option value="package:mine encode" />
         <option value="package:mine CloudGameUnitActivity" />
