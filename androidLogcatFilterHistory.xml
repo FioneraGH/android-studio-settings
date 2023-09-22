@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine encode" />
+    <option name="mostRecentlyUsed" value="package:mine MomentEditModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MomentEditModel" />
         <option value="package:mine encode" />
         <option value="package:mine " />
         <option value="package:mine CloudGameUnitActivity" />
@@ -22,7 +23,6 @@
         <option value="package:mine onJoinChannelSuccess" />
         <option value="package:mine updateChorusSinger" />
         <option value="package:mine updateChorusSingerIn" />
-        <option value="package:mine updateChorusSingingIn" />
       </list>
     </option>
   </component>
