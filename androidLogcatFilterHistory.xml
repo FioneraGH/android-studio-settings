@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LivePlayerController" />
         <option value="package:mine " />
         <option value="package:mine upload:0" />
         <option value="package:mine MomentEditModel" />
@@ -21,7 +23,6 @@
         <option value="package:mine AiChorusComposing" />
         <option value="package:mine KtvRoomManager" />
         <option value="package:mine onJoinChannelSuccess" />
-        <option value="package:mine updateChorusSinger" />
       </list>
     </option>
   </component>
