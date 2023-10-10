@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LivePlayerController" />
         <option value="package:mine " />
         <option value="package:mine Wayne" />
         <option value="package:mine GID" />
-        <option value="package:mine LivePlayerController" />
         <option value="package:mine upload:0" />
         <option value="package:mine MomentEditModel" />
         <option value="package:mine encode" />
