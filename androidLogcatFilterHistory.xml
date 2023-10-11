@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine liveStream" />
+    <option name="mostRecentlyUsed" value="package:mine LivePlayerCon" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LivePlayerCon" />
+        <option value="package:mine wayne" />
         <option value="package:mine liveStream" />
         <option value="package:mine " />
         <option value="package:mine pushInfo" />
@@ -21,8 +23,6 @@
         <option value="package:mine WayneLivePlayer" />
         <option value="package:mine GiftPreloadManager" />
         <option value="package:mine updateChorusSingerInfo" />
-        <option value="package:mine AudioEngine" />
-        <option value="package:mine audioFrame" />
       </list>
     </option>
   </component>
