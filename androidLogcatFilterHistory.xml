@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine LivePlayerCon" />
+        <option value="package:mine LivePlayerLog" />
+        <option value="package:mine LivePlayerReport" />
         <option value="package:mine wayne" />
         <option value="package:mine liveStream" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine WayneLive" />
         <option value="package:mine level:error " />
         <option value="package:mine WayneLivePlayer" />
-        <option value="package:mine GiftPreloadManager" />
-        <option value="package:mine updateChorusSingerInfo" />
       </list>
     </option>
   </component>
