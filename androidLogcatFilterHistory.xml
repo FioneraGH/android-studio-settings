@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine AnoleLog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AnoleLog" />
+        <option value="package:mine WayneLog" />
+        <option value="package:mine LivePlayerReport" />
+        <option value="package:mine Liv" />
         <option value="package:mine " />
+        <option value="package:mine liveplayer" />
         <option value="package:mine level:error " />
         <option value="package:mine LivePlayer" />
         <option value="package:mine LivePlayerC" />
@@ -10,7 +16,6 @@
         <option value="package:mine Way" />
         <option value="package:mine LivePlayerCon" />
         <option value="package:mine LivePlayerLog" />
-        <option value="package:mine LivePlayerReport" />
         <option value="package:mine wayne" />
         <option value="package:mine liveStream" />
         <option value="package:mine pushInfo" />
@@ -18,10 +23,6 @@
         <option value="package:mine LivePlayerController" />
         <option value="package:mine GID" />
         <option value="package:mine upload:0" />
-        <option value="package:mine MomentEditModel" />
-        <option value="package:mine encode" />
-        <option value="package:mine CloudGameUnitActivity" />
-        <option value="package:mine easymockserverbackend" />
       </list>
     </option>
   </component>
