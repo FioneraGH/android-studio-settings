@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Anr" />
+    <option name="mostRecentlyUsed" value="package:mine onUrlSwitchFail" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onUrlSwitchFail" />
+        <option value="package:mine LivePlayerController" />
+        <option value="package:mine LivePlayer" />
         <option value="package:mine Anr" />
         <option value="package:mine level:error " />
         <option value="package:mine LivePla" />
         <option value="package:mine AnoleLog" />
-        <option value="package:mine LivePlayerController" />
         <option value="package:mine " />
-        <option value="package:mine LivePlayer" />
         <option value="package:mine WayneLog" />
         <option value="package:mine LivePlayerReport" />
         <option value="package:mine Liv" />
@@ -22,7 +23,6 @@
         <option value="package:mine wayne" />
         <option value="package:mine liveStream" />
         <option value="package:mine pushInfo" />
-        <option value="package:mine status:" />
       </list>
     </option>
   </component>
