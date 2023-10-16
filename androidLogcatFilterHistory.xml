@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
+    <option name="mostRecentlyUsed" value="package:mine AnoleLog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AnoleLog" />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine " />
         <option value="package:mine LivePlayer" />
-        <option value="package:mine AnoleLog" />
         <option value="package:mine WayneLog" />
         <option value="package:mine LivePlayerReport" />
         <option value="package:mine Liv" />
