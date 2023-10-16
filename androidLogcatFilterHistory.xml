@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onUrlSwitchFail" />
+    <option name="mostRecentlyUsed" value="package:mine editor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine editor" />
+        <option value="package:mine LivePl" />
         <option value="package:mine onUrlSwitchFail" />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine LivePlayer" />
@@ -21,8 +23,6 @@
         <option value="package:mine LivePlayerCon" />
         <option value="package:mine LivePlayerLog" />
         <option value="package:mine wayne" />
-        <option value="package:mine liveStream" />
-        <option value="package:mine pushInfo" />
       </list>
     </option>
   </component>
