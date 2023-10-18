@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine LivePlayerController" />
         <option value="package:mine " />
+        <option value="package:mine LivePlayerController" />
         <option value="package:mine LivePla" />
         <option value="package:mine LivePl" />
         <option value="package:mine editor" />
