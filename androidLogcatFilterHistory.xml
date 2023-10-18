@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine audio_on" />
+    <option name="mostRecentlyUsed" value="package:mine onUrlSwitchFail" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine audio_on" />
+        <option value="package:mine onUrlSwitchFail" />
+        <option value="package:mine retry" />
+        <option value="package:mine LivePlayer" />
         <option value="package:mine " />
+        <option value="package:mine audio_on" />
         <option value="package:mine WayneLivePlayer" />
         <option value="package:mine Wanye" />
         <option value="package:mine startAudioOnlyMode" />
@@ -16,13 +19,10 @@
         <option value="package:mine LivePla" />
         <option value="package:mine LivePl" />
         <option value="package:mine editor" />
-        <option value="package:mine onUrlSwitchFail" />
-        <option value="package:mine LivePlayer" />
         <option value="package:mine Anr" />
         <option value="package:mine level:error " />
         <option value="package:mine AnoleLog" />
         <option value="package:mine WayneLog" />
-        <option value="package:mine LivePlayerReport" />
       </list>
     </option>
   </component>
