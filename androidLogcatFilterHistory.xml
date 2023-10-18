@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine audio_on" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine audio_on" />
         <option value="package:mine " />
         <option value="package:mine WayneLivePlayer" />
         <option value="package:mine Wanye" />
@@ -21,7 +23,6 @@
         <option value="package:mine AnoleLog" />
         <option value="package:mine WayneLog" />
         <option value="package:mine LivePlayerReport" />
-        <option value="package:mine Liv" />
       </list>
     </option>
   </component>
