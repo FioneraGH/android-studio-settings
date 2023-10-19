@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LivePlayerController" />
+        <option value="package:mine" />
         <option value="package:mine crash" />
         <option value="package:mine " />
         <option value="package:mine level:error" />
@@ -10,7 +12,6 @@
         <option value="package:mine LivePlayerCont" />
         <option value="package:mine LivePlayerContr" />
         <option value="package:mine azeroth config" />
-        <option value="package:mine LivePlayerController" />
         <option value="package:mine ksliveplayer" />
         <option value="package:mine config" />
         <option value="package:mine LivePlayer" />
@@ -22,7 +23,6 @@
         <option value="package:mine startAudioOnlyMode" />
         <option value="package:mine VP_" />
         <option value="package:mine debuginfo" />
-        <option value="package:mine audio only" />
       </list>
     </option>
   </component>
