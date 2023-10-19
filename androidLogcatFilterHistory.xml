@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onUrlSwitchFail" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onUrlSwitchFail" />
         <option value="package:mine " />
+        <option value="package:mine onUrlSwitchFail" />
         <option value="package:mine LivePlayerCont" />
         <option value="package:mine LivePlayerContr" />
         <option value="package:mine azeroth config" />
