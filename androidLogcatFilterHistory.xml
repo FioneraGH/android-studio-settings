@@ -4,9 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine LivePlayerController" />
+        <option value="package:mine LivePlayController" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine crash" />
-        <option value="package:mine " />
         <option value="package:mine level:error" />
         <option value="package:mine onUrlSwitchFail" />
         <option value="package:mine LivePlayerCont" />
@@ -22,7 +23,6 @@
         <option value="package:mine Wanye" />
         <option value="package:mine startAudioOnlyMode" />
         <option value="package:mine VP_" />
-        <option value="package:mine debuginfo" />
       </list>
     </option>
   </component>
