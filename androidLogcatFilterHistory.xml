@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine roomCode" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameController" />
         <option value="package:mine roomCode" />
         <option value="package:mine roo" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine azeroth config" />
         <option value="package:mine ksliveplayer" />
         <option value="package:mine config" />
-        <option value="package:mine LivePla" />
       </list>
     </option>
   </component>
