@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine roomCode" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine roomCode" />
+        <option value="package:mine roo" />
         <option value="package:mine " />
         <option value="package:mine LivePlayer" />
         <option value="package:mine Live" />
@@ -20,8 +23,6 @@
         <option value="package:mine ksliveplayer" />
         <option value="package:mine config" />
         <option value="package:mine LivePla" />
-        <option value="package:mine retry" />
-        <option value="package:mine audio_on" />
       </list>
     </option>
   </component>
