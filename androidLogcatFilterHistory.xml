@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameLogEvent" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine CloudGameLogEvent" />
         <option value="package:mine CloudGameLogOverall" />
         <option value="package:mine CloudGameLogRealTime" />
@@ -20,7 +21,6 @@
         <option value="package:mine LivePlayerC" />
         <option value="package:mine trigger delay" />
         <option value="package:mine LivePlayController" />
-        <option value="package:mine" />
         <option value="package:mine crash" />
         <option value="package:mine level:error" />
       </list>
