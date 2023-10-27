@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameUni" />
+    <option name="mostRecentlyUsed" value="package:mine Ano" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Ano" />
+        <option value="package:mine LivePlayer" />
         <option value="package:mine CloudGameUni" />
         <option value="package:mine CloudGame" />
         <option value="package:mine LivePlayerCo" />
@@ -19,10 +21,8 @@
         <option value="package:mine CloudGameController" />
         <option value="package:mine roomCode" />
         <option value="package:mine roo" />
-        <option value="package:mine LivePlayer" />
         <option value="package:mine Live" />
         <option value="package:mine LivePl" />
-        <option value="package:mine LivePlayerC" />
       </list>
     </option>
   </component>
