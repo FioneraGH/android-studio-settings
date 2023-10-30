@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine YTechGift" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameUni" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameUni" />
         <option value="package:mine YTechGift" />
         <option value="package:mine " />
         <option value="package:mine CloudGame" />
         <option value="package:mine aryaC" />
         <option value="package:mine Ano" />
         <option value="package:mine LivePlayer" />
-        <option value="package:mine CloudGameUni" />
         <option value="package:mine LivePlayerCo" />
         <option value="package:mine CloudGameUn" />
         <option value="package:mine CloudGameC" />
