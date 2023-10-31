@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine CloudGameUni" />
-        <option value="package:mine CloudGameControl" />
         <option value="package:mine CloudGameCon" />
+        <option value="package:mine CloudGameControl" />
         <option value="package:mine YTechGift" />
         <option value="package:mine " />
         <option value="package:mine CloudGame" />
