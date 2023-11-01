@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameController" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameUn" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameUn" />
+        <option value="package:mine CloudGameCon" />
+        <option value="package:mine " />
         <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGameUnit" />
         <option value="package:mine trigger de" />
-        <option value="package:mine " />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine CloudGameLogRealTime" />
         <option value="package:mine CloudGameUni" />
-        <option value="package:mine CloudGameCon" />
         <option value="package:mine CloudGameControl" />
         <option value="package:mine YTechGift" />
         <option value="package:mine CloudGame" />
@@ -18,7 +19,6 @@
         <option value="package:mine Ano" />
         <option value="package:mine LivePlayer" />
         <option value="package:mine LivePlayerCo" />
-        <option value="package:mine CloudGameUn" />
         <option value="package:mine CloudGameC" />
         <option value="package:mine level:error" />
         <option value="package:mine" />
