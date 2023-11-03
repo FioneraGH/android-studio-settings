@@ -4,10 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine LivePlayerController" />
+        <option value="package:mine LivePlayer" />
+        <option value="package:mine LivePlayerControl" />
+        <option value="package:mine CloudGameUn" />
         <option value="package:mine CloudGameCon" />
         <option value="package:mine CloudGame" />
         <option value="package:mine CloudGameController" />
-        <option value="package:mine CloudGameUn" />
         <option value="package:mine CloudGameUni" />
         <option value="package:mine CloudGameCo" />
         <option value="package:mine " />
@@ -18,11 +20,9 @@
         <option value="package:mine YTechGift" />
         <option value="package:mine aryaC" />
         <option value="package:mine Ano" />
-        <option value="package:mine LivePlayer" />
         <option value="package:mine LivePlayerCo" />
         <option value="package:mine CloudGameC" />
         <option value="package:mine level:error" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
