@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine OneKeyUnicom" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine OneKeyUnicom" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine onError" />
         <option value="package:mine CloudGameUnitActivity" />
