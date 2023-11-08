@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine OneKeyUnicom" />
+    <option name="mostRecentlyUsed" value="package:mine OneKeyTelcom" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine OneKeyTelcom" />
         <option value="package:mine OneKeyUnicom" />
         <option value="package:mine " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine CloudGameLogRealTime" />
         <option value="package:mine CloudGameControl" />
         <option value="package:mine YTechGift" />
-        <option value="package:mine aryaC" />
       </list>
     </option>
   </component>
