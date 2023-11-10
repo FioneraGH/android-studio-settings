@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine OneKeyTelcom" />
+    <option name="mostRecentlyUsed" value="httponly" />
     <option name="nonFavorites">
       <list>
+        <option value="httponly" />
+        <option value="package:mine " />
         <option value="package:mine OneKeyTelcom" />
         <option value="package:mine OneKeyUnicom" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine onError" />
         <option value="package:mine CloudGameUnitActivity" />
@@ -22,7 +23,6 @@
         <option value="package:mine trigger de" />
         <option value="package:mine CloudGameLogRealTime" />
         <option value="package:mine CloudGameControl" />
-        <option value="package:mine YTechGift" />
       </list>
     </option>
   </component>
