@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Strict Secure" />
+    <option name="mostRecentlyUsed" value="KwaiPaySdk" />
     <option name="nonFavorites">
       <list>
+        <option value="KwaiPaySdk" />
         <option value="Strict Secure" />
         <option value="Strict Sec" />
-        <option value="KwaiPaySdk" />
         <option value="httponly" />
         <option value="package:mine " />
         <option value="package:mine OneKeyTelcom" />
