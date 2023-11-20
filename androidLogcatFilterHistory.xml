@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine access" />
+    <option name="mostRecentlyUsed" value="package:mine MIME" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MIME" />
         <option value="package:mine access" />
         <option value="KwaiPaySdk" />
         <option value="Strict Secure" />
@@ -22,7 +23,6 @@
         <option value="package:mine CloudGame" />
         <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGameUni" />
-        <option value="package:mine CloudGameCo" />
       </list>
     </option>
   </component>
