@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="package:mine OneKeyUnicom" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine AlbumNotifyHelper" />
@@ -13,7 +16,6 @@
         <option value="Strict Sec" />
         <option value="httponly" />
         <option value="package:mine OneKeyTelcom" />
-        <option value="package:mine OneKeyUnicom" />
         <option value="package:mine onError" />
         <option value="package:mine CloudGameUnitActivity" />
         <option value="package:mine LivePlayerController" />
@@ -21,7 +23,6 @@
         <option value="package:mine LivePlayerControl" />
         <option value="package:mine CloudGameUn" />
         <option value="package:mine CloudGameCon" />
-        <option value="package:mine CloudGame" />
       </list>
     </option>
   </component>
