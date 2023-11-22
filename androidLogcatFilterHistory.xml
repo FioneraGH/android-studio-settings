@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WaynePlayerController" />
+    <option name="mostRecentlyUsed" value="package:mine AnoleLog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AnoleLog" />
         <option value="package:mine WaynePlayerController" />
         <option value="level:error " />
         <option value="package:mine OneKeyUnicom" />
@@ -22,7 +23,6 @@
         <option value="package:mine LivePlayerController" />
         <option value="package:mine LivePlayer" />
         <option value="package:mine LivePlayerControl" />
-        <option value="package:mine CloudGameUn" />
       </list>
     </option>
   </component>
