@@ -1,9 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine AlbumNotifyHelper" />
         <option value="package:mine url" />
         <option value="package:mine MIME" />
@@ -14,7 +14,6 @@
         <option value="httponly" />
         <option value="package:mine OneKeyTelcom" />
         <option value="package:mine OneKeyUnicom" />
-        <option value="package:mine" />
         <option value="package:mine onError" />
         <option value="package:mine CloudGameUnitActivity" />
         <option value="package:mine LivePlayerController" />
