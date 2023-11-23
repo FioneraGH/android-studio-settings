@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine forceS" />
+    <option name="mostRecentlyUsed" value="package:mine cookie" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine cookie" />
+        <option value="package:mine setCookie" />
         <option value="package:mine forceS" />
         <option value="package:mine " />
         <option value="package:mine AnoleLog" />
@@ -21,8 +23,6 @@
         <option value="package:mine OneKeyTelcom" />
         <option value="package:mine onError" />
         <option value="package:mine CloudGameUnitActivity" />
-        <option value="package:mine LivePlayerController" />
-        <option value="package:mine LivePlayer" />
       </list>
     </option>
   </component>
