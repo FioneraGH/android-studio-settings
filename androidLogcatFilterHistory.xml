@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine roomId" />
         <option value="package:mine" />
         <option value="package:mine cookie" />
         <option value="package:mine setCookie" />
         <option value="package:mine forceS" />
-        <option value="package:mine " />
         <option value="package:mine AnoleLog" />
         <option value="package:mine WaynePlayerController" />
         <option value="level:error " />
@@ -22,7 +22,6 @@
         <option value="httponly" />
         <option value="package:mine OneKeyTelcom" />
         <option value="package:mine onError" />
-        <option value="package:mine CloudGameUnitActivity" />
       </list>
     </option>
   </component>
