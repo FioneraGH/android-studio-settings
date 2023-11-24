@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine cookie" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine cookie" />
         <option value="package:mine setCookie" />
         <option value="package:mine forceS" />
@@ -11,7 +12,6 @@
         <option value="package:mine WaynePlayerController" />
         <option value="level:error " />
         <option value="package:mine OneKeyUnicom" />
-        <option value="package:mine" />
         <option value="package:mine AlbumNotifyHelper" />
         <option value="package:mine url" />
         <option value="package:mine MIME" />
