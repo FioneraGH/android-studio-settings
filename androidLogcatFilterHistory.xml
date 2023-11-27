@@ -1,7 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine ClipPostTask" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ClipPostTask" />
+        <option value="package:mine Privacy" />
+        <option value="package:mine -100003" />
+        <option value="package:mine -" />
         <option value="package:mine " />
         <option value="package:mine roomId" />
         <option value="package:mine" />
@@ -18,10 +23,6 @@
         <option value="package:mine access" />
         <option value="KwaiPaySdk" />
         <option value="Strict Secure" />
-        <option value="Strict Sec" />
-        <option value="httponly" />
-        <option value="package:mine OneKeyTelcom" />
-        <option value="package:mine onError" />
       </list>
     </option>
   </component>
