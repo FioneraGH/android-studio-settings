@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine getNetworkType" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getNetworkType" />
         <option value="package:mine " />
-        <option value="package:mine ClipPostTask" />
         <option value="package:mine Privacy" />
+        <option value="package:mine ClipPostTask" />
         <option value="package:mine -100003" />
         <option value="package:mine -" />
         <option value="package:mine roomId" />
@@ -21,7 +23,6 @@
         <option value="package:mine MIME" />
         <option value="package:mine access" />
         <option value="KwaiPaySdk" />
-        <option value="Strict Secure" />
       </list>
     </option>
   </component>
