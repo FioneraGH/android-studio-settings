@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Privacy" />
+    <option name="mostRecentlyUsed" value="package:mine WaynePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WaynePlayerController" />
+        <option value="package:mine Anol" />
+        <option value="package:mine An" />
         <option value="package:mine Privacy" />
         <option value="package:mine " />
         <option value="package:mine getNetworkType" />
@@ -15,14 +18,11 @@
         <option value="package:mine setCookie" />
         <option value="package:mine forceS" />
         <option value="package:mine AnoleLog" />
-        <option value="package:mine WaynePlayerController" />
         <option value="level:error " />
         <option value="package:mine OneKeyUnicom" />
         <option value="package:mine AlbumNotifyHelper" />
         <option value="package:mine url" />
         <option value="package:mine MIME" />
-        <option value="package:mine access" />
-        <option value="KwaiPaySdk" />
       </list>
     </option>
   </component>
