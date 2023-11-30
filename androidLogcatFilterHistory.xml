@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WaynePlayerController" />
+    <option name="mostRecentlyUsed" value="package:mine WaynePlayerReport" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WaynePlayerReport" />
+        <option value="package:mine " />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine Anol" />
         <option value="package:mine An" />
         <option value="package:mine Privacy" />
-        <option value="package:mine " />
         <option value="package:mine getNetworkType" />
         <option value="package:mine ClipPostTask" />
         <option value="package:mine -100003" />
@@ -22,7 +23,6 @@
         <option value="package:mine OneKeyUnicom" />
         <option value="package:mine AlbumNotifyHelper" />
         <option value="package:mine url" />
-        <option value="package:mine MIME" />
       </list>
     </option>
   </component>
