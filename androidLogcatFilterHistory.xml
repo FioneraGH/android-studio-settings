@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WaynePlayerReport" />
+    <option name="mostRecentlyUsed" value="package:mine WaynePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WaynePlayerController" />
         <option value="package:mine WaynePlayerReport" />
         <option value="package:mine " />
-        <option value="package:mine WaynePlayerController" />
         <option value="package:mine Anol" />
         <option value="package:mine An" />
         <option value="package:mine Privacy" />
