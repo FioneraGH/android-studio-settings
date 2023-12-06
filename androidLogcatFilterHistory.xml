@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine WaynePlayerController" />
+        <option value="package:mine WaynePlayer" />
+        <option value="package:mine player loading" />
         <option value="package:mine " />
         <option value="package:mine CloudGameController" />
         <option value="package:mine WaynePlayerCon" />
@@ -21,8 +23,6 @@
         <option value="package:mine setCookie" />
         <option value="package:mine forceS" />
         <option value="package:mine AnoleLog" />
-        <option value="level:error " />
-        <option value="package:mine OneKeyUnicom" />
       </list>
     </option>
   </component>
