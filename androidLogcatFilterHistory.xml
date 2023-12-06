@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine player loading" />
+    <option name="mostRecentlyUsed" value="package:mine WaynePlayerController" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine player loading" />
         <option value="package:mine WaynePlayerController" />
+        <option value="package:mine player loading" />
         <option value="package:mine WaynePlayer" />
         <option value="package:mine " />
         <option value="package:mine CloudGameController" />
