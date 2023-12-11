@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameCon" />
+    <option name="mostRecentlyUsed" value="package:mine Cloud" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Cloud" />
+        <option value="package:mine " />
         <option value="package:mine CloudGameCon" />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine player loading" />
         <option value="package:mine WaynePlayer" />
-        <option value="package:mine " />
         <option value="package:mine CloudGameController" />
         <option value="package:mine WaynePlayerCon" />
         <option value="package:mine WaynePlayerReport" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine cookie" />
         <option value="package:mine setCookie" />
-        <option value="package:mine forceS" />
       </list>
     </option>
   </component>
