@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGamePlay" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGamePlay" />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine CloudGamePlaySDK" />
         <option value="package:mine CloudGame" />
         <option value="package:mine " />
         <option value="package:mine websocket" />
-        <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGameUnitActivity" />
         <option value="package:mine KwaiCloudGamePlaySDK" />
         <option value="package:mine startCloudPlay" />
