@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameController" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGamePLay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGamePLay" />
         <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGamePlay" />
         <option value="package:mine WaynePlayerController" />
@@ -22,7 +23,6 @@
         <option value="package:mine WaynePlayerCon" />
         <option value="package:mine WaynePlayerReport" />
         <option value="package:mine Anol" />
-        <option value="package:mine An" />
       </list>
     </option>
   </component>
