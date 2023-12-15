@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameCon" />
+    <option name="mostRecentlyUsed" value="package:mine WaynePlayerReport" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WaynePlayerReport" />
+        <option value="package:mine LivePlayerReport" />
         <option value="package:mine CloudGameCon" />
         <option value="package:mine " />
         <option value="package:mine KsMediaPlayer" />
@@ -10,7 +12,6 @@
         <option value="package:mine KsMediaPlayerInitConfig" />
         <option value="package:mine Anole" />
         <option value="package:mine CloudGameUnitActivity" />
-        <option value="package:mine WaynePlayerReport" />
         <option value="package:mine WaynePlayer" />
         <option value="package:mine WaynePlay" />
         <option value="package:mine CloudGamePLay" />
@@ -22,7 +23,6 @@
         <option value="package:mine websocket" />
         <option value="package:mine KwaiCloudGamePlaySDK" />
         <option value="package:mine startCloudPlay" />
-        <option value="package:mine startCloudPlayWss" />
       </list>
     </option>
   </component>
