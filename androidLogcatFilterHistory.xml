@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine action: VP" />
+    <option name="mostRecentlyUsed" value="CloudGame" />
     <option name="nonFavorites">
       <list>
+        <option value="CloudGame" />
+        <option value="KtvRoomLogger" />
+        <option value="action cdn de" />
+        <option value="package:mine action: vse" />
+        <option value="package:mine action" />
         <option value="package:mine action: VP" />
         <option value="package:mine WaynePlayerReport" />
         <option value="package:mine LivePlayerReport" />
@@ -18,11 +23,6 @@
         <option value="package:mine CloudGamePLay" />
         <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGamePlay" />
-        <option value="package:mine WaynePlayerController" />
-        <option value="package:mine CloudGamePlaySDK" />
-        <option value="package:mine CloudGame" />
-        <option value="package:mine websocket" />
-        <option value="package:mine KwaiCloudGamePlaySDK" />
       </list>
     </option>
   </component>
