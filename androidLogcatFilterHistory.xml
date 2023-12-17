@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CloudGame" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="CloudGameController" />
         <option value="CloudGame" />
         <option value="KtvRoomLogger" />
         <option value="action cdn de" />
@@ -22,7 +23,6 @@
         <option value="package:mine WaynePlay" />
         <option value="package:mine CloudGamePLay" />
         <option value="package:mine CloudGameController" />
-        <option value="package:mine CloudGamePlay" />
       </list>
     </option>
   </component>
