@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Clou" />
+    <option name="mostRecentlyUsed" value="package:mine onStartLivePublishSuccess" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Clou" />
+        <option value="package:mine onStartLivePublishSuccess" />
+        <option value="package:mine CloudGameCon" />
         <option value="package:mine " />
+        <option value="package:mine WaynePlayerController" />
+        <option value="package:mine Clou" />
         <option value="CloudGameController" />
         <option value="CloudGame" />
         <option value="KtvRoomLogger" />
@@ -14,15 +17,12 @@
         <option value="package:mine action: VP" />
         <option value="package:mine WaynePlayerReport" />
         <option value="package:mine LivePlayerReport" />
-        <option value="package:mine CloudGameCon" />
         <option value="package:mine KsMediaPlayer" />
         <option value="package:mine PlayerLibrary" />
         <option value="package:mine KsMediaPlayerInitConfig" />
         <option value="package:mine Anole" />
         <option value="package:mine CloudGameUnitActivity" />
         <option value="package:mine WaynePlayer" />
-        <option value="package:mine WaynePlay" />
-        <option value="package:mine CloudGamePLay" />
       </list>
     </option>
   </component>
