@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fallback&gt;&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="package:mine fallback&gt;&gt;" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine fallback&gt;&gt;&gt;" />
+        <option value="package:mine fallback&gt;&gt;" />
+        <option value="package:mine fallback" />
+        <option value="package:mine CloudGameCo" />
+        <option value="package:mine CloudGameCon" />
         <option value="package:mine " />
+        <option value="package:mine fallback&gt;&gt;&gt;" />
         <option value="package:mine fallbackToCloudGameV1" />
         <option value="package:mine onStartLivePublishSuccess" />
-        <option value="package:mine CloudGameCon" />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine Clou" />
         <option value="CloudGameController" />
@@ -20,9 +23,6 @@
         <option value="package:mine WaynePlayerReport" />
         <option value="package:mine LivePlayerReport" />
         <option value="package:mine KsMediaPlayer" />
-        <option value="package:mine PlayerLibrary" />
-        <option value="package:mine KsMediaPlayerInitConfig" />
-        <option value="package:mine Anole" />
       </list>
     </option>
   </component>
