@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGame" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameLogRealTime" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameLogRealTime" />
+        <option value="package:mine CloudGameCon" />
         <option value="package:mine CloudGame" />
         <option value="package:mine " />
         <option value="package:mine threadpool" />
         <option value="package:mine KsMediaPlayer" />
-        <option value="package:mine CloudGameCon" />
-        <option value="package:mine CloudGameLogRealTime" />
         <option value="package:mine CloudGameCo" />
         <option value="package:mine CloudPlay" />
         <option value="package:mine SVGARoomGiftPreview" />
