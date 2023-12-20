@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameController" />
+    <option name="mostRecentlyUsed" value="package:mine SVGARoomGiftPreview" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SVGARoomGiftPreview" />
         <option value="package:mine CloudGameController" />
         <option value="package:mine CloudGameLog" />
         <option value="package:mine CloudGame" />
@@ -17,7 +18,6 @@
         <option value="package:mine KsMediaPlayer" />
         <option value="package:mine CloudGameCo" />
         <option value="package:mine CloudPlay" />
-        <option value="package:mine SVGARoomGiftPreview" />
         <option value="package:mine fallback&gt;&gt;" />
         <option value="package:mine fallback" />
         <option value="package:mine fallback&gt;&gt;&gt;" />
