@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SVGARoomGiftPreview" />
+    <option name="mostRecentlyUsed" value="package:mine fallback&gt;&gt;&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fallback&gt;&gt;&gt;" />
+        <option value="package:mine CloudGamePlay" />
+        <option value="package:mine CloudGame" />
+        <option value="package:mine CloudGameLog" />
+        <option value="package:mine " />
+        <option value="package:mine CloudGameC" />
         <option value="package:mine SVGARoomGiftPreview" />
         <option value="package:mine CloudGameController" />
-        <option value="package:mine CloudGameLog" />
-        <option value="package:mine CloudGame" />
         <option value="package:mine CloudGamePla" />
-        <option value="package:mine " />
-        <option value="package:mine CloudGamePlay" />
-        <option value="package:mine CloudGameC" />
         <option value="package:mine CloudGameLogR" />
         <option value="package:mine CloudGameCon" />
         <option value="package:mine CloudGameLogRealTime" />
@@ -20,7 +21,6 @@
         <option value="package:mine CloudPlay" />
         <option value="package:mine fallback&gt;&gt;" />
         <option value="package:mine fallback" />
-        <option value="package:mine fallback&gt;&gt;&gt;" />
         <option value="package:mine fallbackToCloudGameV1" />
         <option value="package:mine onStartLivePublishSuccess" />
       </list>
