@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KwaiCloudGamePlaySDK" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameUni" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameUni" />
         <option value="package:mine KwaiCloudGamePlaySDK" />
         <option value="package:mine onWebsocketFail" />
         <option value="package:mine CloudGamePlay" />
@@ -22,7 +23,6 @@
         <option value="package:mine LivePlayerReport" />
         <option value="package:mine level:error " />
         <option value="package:mine l" />
-        <option value="package:mine WayneLive" />
       </list>
     </option>
   </component>
