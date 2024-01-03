@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGameUni" />
+    <option name="mostRecentlyUsed" value="package:mine InterceptTouch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine InterceptTouch" />
+        <option value="package:mine " />
         <option value="package:mine CloudGameUni" />
         <option value="package:mine KwaiCloudGamePlaySDK" />
         <option value="package:mine onWebsocketFail" />
@@ -14,7 +16,6 @@
         <option value="package:mine onGameErrorCodeNotify" />
         <option value="package:mine CloudGameControll" />
         <option value="package:mine CloudGameContr" />
-        <option value="package:mine " />
         <option value="package:mine fallback" />
         <option value="package:mine fallback&gt;&gt;" />
         <option value="package:mine CloudGameUn" />
@@ -22,7 +23,6 @@
         <option value="package:mine CloudGameController" />
         <option value="package:mine LivePlayerReport" />
         <option value="package:mine level:error " />
-        <option value="package:mine l" />
       </list>
     </option>
   </component>
