@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGamePartHandler" />
+    <option name="mostRecentlyUsed" value="package:mine RtcMana" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RtcMana" />
         <option value="package:mine CloudGamePartHandler" />
         <option value="package:mine onVideoRenderingStart" />
         <option value="package:mine onSeiInfo" />
@@ -22,7 +23,6 @@
         <option value="package:mine CloudGamePla" />
         <option value="package:mine onGameErrorCodeNotify" />
         <option value="package:mine CloudGameControll" />
-        <option value="package:mine CloudGameContr" />
       </list>
     </option>
   </component>
