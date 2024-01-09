@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FileDownloadProperties" />
+    <option name="mostRecentlyUsed" value="package:mine HisenseLiveStreamActiveSpeaker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HisenseLiveStreamActiveSpeaker" />
         <option value="package:mine FileDownloadProperties" />
         <option value="package:mine LivePla" />
         <option value="package:mine onSeiInfo" />
@@ -22,7 +23,6 @@
         <option value="package:mine onWebsocketFail" />
         <option value="package:mine CloudGamePlay" />
         <option value="package:mine CloudGameL" />
-        <option value="package:mine CloudGamePla" />
       </list>
     </option>
   </component>
