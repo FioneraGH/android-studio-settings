@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RtcMana" />
+    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LivePlayerController" />
         <option value="package:mine RtcMana" />
         <option value="package:mine CloudGamePartHandler" />
         <option value="package:mine onVideoRenderingStart" />
         <option value="package:mine onSeiInfo" />
-        <option value="package:mine LivePlayerController" />
         <option value="package:mine sessionId" />
         <option value="package:mine CloudGame" />
         <option value="package:mine CloudGameUni" />
