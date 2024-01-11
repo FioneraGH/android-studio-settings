@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LivePlayerCon" />
+    <option name="mostRecentlyUsed" value="package:mine MediaCodecList" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MediaCodecList" />
         <option value="package:mine LivePlayerCon" />
         <option value="package:mine LivePlayer" />
         <option value="package:mine sessionId" />
@@ -22,7 +23,6 @@
         <option value="package:mine CloudGameCon" />
         <option value="package:mine fall" />
         <option value="package:mine CloudGameController" />
-        <option value="package:mine InterceptTouch" />
       </list>
     </option>
   </component>
