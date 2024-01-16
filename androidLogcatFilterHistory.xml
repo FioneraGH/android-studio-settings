@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine onLiveEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onLiveEvent" />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine level:error " />
         <option value="package:mine BottomSheet" />
@@ -22,7 +23,6 @@
         <option value="package:mine LivePla" />
         <option value="package:mine onSeiInfo" />
         <option value="package:mine RtcMana" />
-        <option value="package:mine CloudGamePartHandler" />
       </list>
     </option>
   </component>
