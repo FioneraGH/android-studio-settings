@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine activeSpeakers" />
         <option value="package:mine onLive" />
         <option value="package:mine onLiveEvent" />
         <option value="package:mine LivePlayerController" />
-        <option value="package:mine level:error " />
         <option value="package:mine BottomSheet" />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine YTechG" />
