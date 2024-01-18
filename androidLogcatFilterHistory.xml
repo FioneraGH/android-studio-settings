@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KtvIntimate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine KtpStreamStateFailed" />
         <option value="package:mine KtvIntimate" />
         <option value="package:mine appbarTopPart" />
-        <option value="package:mine " />
         <option value="getBridgeHolder" />
         <option value="package:mine getBridgeHolder" />
         <option value="package:mine Yoda" />
@@ -21,8 +22,6 @@
         <option value="package:mine MediaCodecList" />
         <option value="package:mine LivePlayerCon" />
         <option value="package:mine LivePlayer" />
-        <option value="package:mine sessionId" />
-        <option value="package:mine CloudGame" />
       </list>
     </option>
   </component>
