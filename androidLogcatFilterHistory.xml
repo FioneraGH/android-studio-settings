@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getBridgeHolder" />
+    <option name="mostRecentlyUsed" value="package:mine appbarTopPart" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine appbarTopPart" />
+        <option value="package:mine " />
         <option value="getBridgeHolder" />
         <option value="package:mine getBridgeHolder" />
         <option value="package:mine Yoda" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine activeSpeakers" />
         <option value="package:mine onLive" />
@@ -22,7 +23,6 @@
         <option value="package:mine sessionId" />
         <option value="package:mine CloudGame" />
         <option value="package:mine decode" />
-        <option value="package:mine hw_de" />
       </list>
     </option>
   </component>
