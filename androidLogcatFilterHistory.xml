@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WaynePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine GiftPreloadManager" />
         <option value="package:mine PlaySDK" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine KtpStreamStateFailed" />
         <option value="package:mine KtvIntimate" />
