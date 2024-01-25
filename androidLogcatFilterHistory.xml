@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine activeSpeaker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine activeSpeaker" />
         <option value="package:mine " />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine GiftPreloadManager" />
@@ -21,7 +23,6 @@
         <option value="package:mine BottomSheet" />
         <option value="package:mine YTechG" />
         <option value="package:mine GiftShowQueue" />
-        <option value="package:mine MediaCodecList" />
       </list>
     </option>
   </component>
