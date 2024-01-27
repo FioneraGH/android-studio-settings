@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine activeSpeaker" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine activeSpeaker" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine activeSpeaker" />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine GiftPreloadManager" />
         <option value="package:mine PlaySDK" />
@@ -15,7 +15,6 @@
         <option value="getBridgeHolder" />
         <option value="package:mine getBridgeHolder" />
         <option value="package:mine Yoda" />
-        <option value="package:mine level:error " />
         <option value="package:mine activeSpeakers" />
         <option value="package:mine onLive" />
         <option value="package:mine onLiveEvent" />
