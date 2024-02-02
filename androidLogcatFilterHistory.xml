@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine REALTIME" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine REALTIME" />
+        <option value="package:mine tag:ChatGameSession" />
+        <option value="package:mine ChatGameSession" />
         <option value="package:mine " />
         <option value="package:mine PlaySDK" />
         <option value="package:mine onStop" />
@@ -19,9 +23,6 @@
         <option value="package:mine getBridgeHolder" />
         <option value="package:mine Yoda" />
         <option value="package:mine activeSpeakers" />
-        <option value="package:mine onLive" />
-        <option value="package:mine onLiveEvent" />
-        <option value="package:mine LivePlayerController" />
       </list>
     </option>
   </component>
