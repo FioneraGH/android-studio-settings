@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine OperatorChecker" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGamePla" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGamePla" />
+        <option value="package:mine CloudGame" />
         <option value="package:mine OperatorChecker" />
         <option value="package:mine REALTIME" />
         <option value="package:mine tag:ChatGameSession" />
@@ -21,8 +23,6 @@
         <option value="package:mine KtvIntimate" />
         <option value="package:mine appbarTopPart" />
         <option value="getBridgeHolder" />
-        <option value="package:mine getBridgeHolder" />
-        <option value="package:mine Yoda" />
       </list>
     </option>
   </component>
