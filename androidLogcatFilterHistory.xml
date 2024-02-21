@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine azeroth" />
         <option value="package:mine level:warning" />
-        <option value="package:mine " />
         <option value="package:mine ksclipkitksclipkit" />
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine LivePlayerController" />
