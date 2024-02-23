@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine CloudGame" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGame" />
         <option value="package:mine " />
         <option value="package:mine azeroth" />
         <option value="package:mine level:warning" />
@@ -9,7 +11,6 @@
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine CloudGamePla" />
-        <option value="package:mine CloudGame" />
         <option value="package:mine OperatorChecker" />
         <option value="package:mine REALTIME" />
         <option value="package:mine tag:ChatGameSession" />
