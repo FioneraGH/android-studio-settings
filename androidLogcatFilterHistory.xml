@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CloudGamePl" />
+    <option name="mostRecentlyUsed" value="package:mine GuestList" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine GuestList" />
         <option value="package:mine CloudGamePl" />
         <option value="package:mine GuestListAllUser" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine onStop" />
         <option value="package:mine roomId" />
         <option value="package:mine activeS" />
-        <option value="package:mine activeSpeaker" />
       </list>
     </option>
   </component>
