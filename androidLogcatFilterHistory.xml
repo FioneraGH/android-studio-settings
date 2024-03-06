@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine GuestList" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine GuestList" />
         <option value="package:mine CloudGamePl" />
         <option value="package:mine GuestListAllUser" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine CloudGame" />
         <option value="package:mine azeroth" />
