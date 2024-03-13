@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine BizIM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BizIM" />
         <option value="package:mine " />
         <option value="package:mine BaseActivity" />
         <option value="package:mine ScreeningPlayerVolume" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:ChatGameSession" />
         <option value="package:mine ChatGameSession" />
         <option value="package:mine PlaySDK" />
-        <option value="package:mine onStop" />
       </list>
     </option>
   </component>
