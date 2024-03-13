@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine IMV_APP_KLINK_STATUS" />
         <option value="package:mine " />
         <option value="package:mine BizIM" />
         <option value="package:mine BaseActivity" />
@@ -21,7 +23,6 @@
         <option value="package:mine REALTIME" />
         <option value="package:mine tag:ChatGameSession" />
         <option value="package:mine ChatGameSession" />
-        <option value="package:mine PlaySDK" />
       </list>
     </option>
   </component>
