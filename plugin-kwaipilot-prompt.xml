@@ -1,0 +1,11 @@
+<application>
+  <component name="kuaishou-kwaipilot-prompt">
+    <customPrompts>
+      <CustomPromptConfig>
+        <option name="id" value="kwaipilot.Translation" />
+        <option name="name" value="翻译为中文" />
+        <option name="template" value="请将下列文字翻译为中文：&#10;$$TEXT$$" />
+      </CustomPromptConfig>
+    </customPrompts>
+  </component>
+</application>
