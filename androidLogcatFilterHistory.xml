@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ==========" />
+    <option name="mostRecentlyUsed" value="package:mine IMV_APP_STARTUP_TASK" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine IMV_APP_STARTUP_TASK" />
         <option value="package:mine ==========" />
         <option value="package:mine ===========" />
         <option value="package:mine IMV_APP_KLINK_STATUS" />
@@ -22,7 +23,6 @@
         <option value="package:mine LivePlayerController" />
         <option value="package:mine CloudGamePla" />
         <option value="package:mine OperatorChecker" />
-        <option value="package:mine REALTIME" />
       </list>
     </option>
   </component>
