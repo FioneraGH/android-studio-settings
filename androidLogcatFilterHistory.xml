@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine IMV_APP_PAGE_START" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine IMV_APP_PAGE_START" />
         <option value="package:mine IMV_APP_STARTUP" />
         <option value="package:mine IMV_APP_STARTUP_TASK" />
         <option value="package:mine ==========" />
         <option value="package:mine ===========" />
         <option value="package:mine IMV_APP_KLINK_STATUS" />
-        <option value="package:mine " />
         <option value="package:mine BizIM" />
         <option value="package:mine BaseActivity" />
         <option value="package:mine ScreeningPlayerVolume" />
