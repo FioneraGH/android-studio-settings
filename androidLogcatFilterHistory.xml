@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RTM" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine RTM" />
         <option value="package:mine " />
+        <option value="package:mine Arya" />
+        <option value="package:mine RTMPlayer" />
+        <option value="package:mine RTM" />
         <option value="package:mine IMV_APP_PAGE_START" />
         <option value="package:mine IMV_APP_STARTUP" />
         <option value="package:mine IMV_APP_STARTUP_TASK" />
@@ -21,8 +22,6 @@
         <option value="package:mine CloudGame" />
         <option value="package:mine azeroth" />
         <option value="package:mine level:warning" />
-        <option value="package:mine ksclipkitksclipkit" />
-        <option value="package:mine WaynePlayerController" />
       </list>
     </option>
   </component>
