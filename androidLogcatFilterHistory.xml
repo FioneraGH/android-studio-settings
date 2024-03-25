@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UploadLogInitModule" />
+    <option name="mostRecentlyUsed" value="package:mine KanasKwaiLogger" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine UploadLogInitModule" />
+        <option value="package:mine KanasKwaiLogger" />
         <option value="package:mine " />
+        <option value="package:mine UploadLogInitModule" />
         <option value="package:mine Arya" />
         <option value="package:mine RTMPlayer" />
         <option value="package:mine RTM" />
@@ -22,7 +23,6 @@
         <option value="package:mine GuestListAllUser" />
         <option value="package:mine level:error " />
         <option value="package:mine CloudGame" />
-        <option value="package:mine azeroth" />
       </list>
     </option>
   </component>
