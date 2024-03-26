@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine process:com.kwai.hisense " />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine process:com.kwai.hisense " />
         <option value="package:mine " />
         <option value="package:mine AndroidPUtils" />
@@ -22,7 +23,6 @@
         <option value="package:mine ScreeningPlayerVolume" />
         <option value="package:mine GuestList" />
         <option value="package:mine CloudGamePl" />
-        <option value="package:mine GuestListAllUser" />
       </list>
     </option>
   </component>
