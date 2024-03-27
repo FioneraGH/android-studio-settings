@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine RTMPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RTMPlayer" />
         <option value="package:mine " />
+        <option value="package:mine RTMPl" />
+        <option value="package:mine totalDuration:" />
+        <option value="package:mine scene:" />
+        <option value="package:mine scene:2" />
+        <option value="package:mine IMV_APP_STARTUP" />
         <option value="package:mine Timings" />
         <option value="package:mine Timings -&gt;" />
         <option value="package:mine  " />
@@ -11,17 +18,11 @@
         <option value="package:mine KanasKwaiLogger" />
         <option value="package:mine UploadLogInitModule" />
         <option value="package:mine Arya" />
-        <option value="package:mine RTMPlayer" />
         <option value="package:mine RTM" />
         <option value="package:mine IMV_APP_PAGE_START" />
-        <option value="package:mine IMV_APP_STARTUP" />
         <option value="package:mine IMV_APP_STARTUP_TASK" />
         <option value="package:mine ==========" />
         <option value="package:mine ===========" />
-        <option value="package:mine IMV_APP_KLINK_STATUS" />
-        <option value="package:mine BizIM" />
-        <option value="package:mine BaseActivity" />
-        <option value="package:mine ScreeningPlayerVolume" />
       </list>
     </option>
   </component>
