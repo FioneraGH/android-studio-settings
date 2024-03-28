@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RTMPlayer" />
+    <option name="mostRecentlyUsed" value="package:mine RTMPl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RTMPl" />
+        <option value="package:mine LivePlay" />
         <option value="package:mine RTMPlayer" />
         <option value="package:mine " />
         <option value="package:mine DeviceNetworkQualityManager" />
         <option value="package:mine RTMPla" />
         <option value="package:mine leavePa" />
-        <option value="package:mine RTMPl" />
         <option value="package:mine totalDuration:" />
         <option value="package:mine scene:" />
         <option value="package:mine scene:2" />
@@ -22,7 +23,6 @@
         <option value="package:mine UploadLogInitModule" />
         <option value="package:mine Arya" />
         <option value="package:mine RTM" />
-        <option value="package:mine IMV_APP_PAGE_START" />
       </list>
     </option>
   </component>
