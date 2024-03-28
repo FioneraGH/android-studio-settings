@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DeviceNetworkQualityManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine RTMPlayer" />
         <option value="package:mine DeviceNetworkQualityManager" />
         <option value="package:mine RTMPla" />
         <option value="package:mine leavePa" />
-        <option value="package:mine " />
-        <option value="package:mine RTMPlayer" />
         <option value="package:mine RTMPl" />
         <option value="package:mine totalDuration:" />
         <option value="package:mine scene:" />
