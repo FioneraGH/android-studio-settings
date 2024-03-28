@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RTMPla" />
+    <option name="mostRecentlyUsed" value="package:mine DeviceNetworkQualityManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DeviceNetworkQualityManager" />
         <option value="package:mine RTMPla" />
         <option value="package:mine leavePa" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine Arya" />
         <option value="package:mine RTM" />
         <option value="package:mine IMV_APP_PAGE_START" />
-        <option value="package:mine IMV_APP_STARTUP_TASK" />
       </list>
     </option>
   </component>
