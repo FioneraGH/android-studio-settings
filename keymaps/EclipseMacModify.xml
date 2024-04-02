@@ -16,6 +16,9 @@
   </action>
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Move" />
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.ShowDiff">
