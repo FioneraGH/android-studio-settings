@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine final" />
+    <option name="mostRecentlyUsed" value="package:mine RTMPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RTMPlayer" />
         <option value="package:mine final" />
         <option value="package:mine FinalizeWatchDog" />
         <option value="package:mine " />
         <option value="package:mine CloudGame" />
         <option value="package:mine RTMPl" />
         <option value="package:mine LivePlay" />
-        <option value="package:mine RTMPlayer" />
         <option value="package:mine DeviceNetworkQualityManager" />
         <option value="package:mine RTMPla" />
         <option value="package:mine leavePa" />
