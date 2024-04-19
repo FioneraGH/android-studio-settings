@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RTMPlayer" />
+    <option name="mostRecentlyUsed" value="package:mine LivePlayerController" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LivePlayerController" />
+        <option value="package:mine RTMQoS" />
         <option value="package:mine RTMPlayer" />
         <option value="package:mine final" />
         <option value="package:mine FinalizeWatchDog" />
@@ -21,8 +23,6 @@
         <option value="package:mine Timings -&gt;" />
         <option value="package:mine  " />
         <option value="package:mine process:com.kwai.hisense " />
-        <option value="package:mine AndroidPUtils" />
-        <option value="package:mine KanasKwaiLogger" />
       </list>
     </option>
   </component>
