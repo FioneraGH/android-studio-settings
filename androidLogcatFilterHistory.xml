@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RTMPlayer" />
+    <option name="mostRecentlyUsed" value="package:mine CloudGameRtcManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CloudGameRtcManager" />
         <option value="package:mine RTMPlayer" />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine RTMQoS" />
@@ -22,7 +23,6 @@
         <option value="package:mine Timings" />
         <option value="package:mine Timings -&gt;" />
         <option value="package:mine  " />
-        <option value="package:mine process:com.kwai.hisense " />
       </list>
     </option>
   </component>
