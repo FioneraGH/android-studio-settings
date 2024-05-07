@@ -12,11 +12,11 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.pro</mask>
+    <mask>*.java</mask>
   </component>
 </application>
