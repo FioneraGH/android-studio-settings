@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine ScreenRecordingManager" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
         <option value="package:mine ScreenRecordingManager" />
+        <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="package:mine Realtime" />
         <option value="package:mine RTMQoS" />
         <option value="package:mine CloudGameLogRealTime" />
@@ -12,7 +13,6 @@
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine CloudGame" />
         <option value="package:mine RTMQos" />
-        <option value="package:mine " />
         <option value="package:mine CloudGameRtcManager" />
         <option value="package:mine LivePlayerController" />
         <option value="package:mine final" />
