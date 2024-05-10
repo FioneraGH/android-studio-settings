@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ScreenRecordingManager" />
+    <option name="mostRecentlyUsed" value="package:mine ====" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ScreenRecordingManager" />
+        <option value="package:mine ====" />
+        <option value="package:mine Krn" />
         <option value="package:mine " />
+        <option value="package:mine ScreenRecordingManager" />
         <option value="package:mine level:error " />
         <option value="package:mine Realtime" />
         <option value="package:mine RTMQoS" />
@@ -21,8 +23,6 @@
         <option value="package:mine LivePlay" />
         <option value="package:mine DeviceNetworkQualityManager" />
         <option value="package:mine RTMPla" />
-        <option value="package:mine leavePa" />
-        <option value="package:mine totalDuration:" />
       </list>
     </option>
   </component>
