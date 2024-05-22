@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine VocalAGC" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine VocalAGC" />
+        <option value="package:mine VoiceRecord" />
         <option value="package:mine " />
         <option value="package:mine FeedGoldTaskManager" />
         <option value="package:mine level:error " />
@@ -20,8 +23,6 @@
         <option value="package:mine final" />
         <option value="package:mine FinalizeWatchDog" />
         <option value="package:mine RTMPl" />
-        <option value="package:mine LivePlay" />
-        <option value="package:mine DeviceNetworkQualityManager" />
       </list>
     </option>
   </component>
