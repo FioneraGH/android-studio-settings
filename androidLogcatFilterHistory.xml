@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine BombGameResultDialog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BombGameResultDialog" />
+        <option value="package:mine soundpool" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine playMusic" />
@@ -20,8 +23,6 @@
         <option value="package:mine WaynePlayerController" />
         <option value="package:mine CloudGame" />
         <option value="package:mine RTMQos" />
-        <option value="package:mine CloudGameRtcManager" />
-        <option value="package:mine LivePlayerController" />
       </list>
     </option>
   </component>
