@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BombGameResultDialog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine BombGameResultDialog" />
         <option value="package:mine soundpool" />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine playMusic" />
         <option value="package:mine jsCalljsCall" />
