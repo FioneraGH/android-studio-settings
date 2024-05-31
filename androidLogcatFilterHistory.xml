@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine arya" />
+    <option name="mostRecentlyUsed" value="package:mine onReceiveStreamMessage" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine arya" />
         <option value="package:mine onReceiveStreamMessage" />
-        <option value="package:mine FeedGoldTaskManager" />
+        <option value="package:mine createDataStream" />
         <option value="package:mine " />
+        <option value="package:mine arya" />
+        <option value="package:mine createDa" />
+        <option value="package:mine FeedGoldTaskManager" />
         <option value="package:mine BombGameResultDialog" />
         <option value="package:mine soundpool" />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="package:mine Realtime" />
         <option value="package:mine RTMQoS" />
         <option value="package:mine CloudGameLogRealTime" />
-        <option value="package:mine RTMPlayer" />
-        <option value="package:mine WaynePlayerController" />
       </list>
     </option>
   </component>
