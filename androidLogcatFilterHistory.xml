@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine FeedGoldTaskManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine FeedGoldTaskManager" />
         <option value="package:mine " />
         <option value="package:mine BombGameResultDialog" />
         <option value="package:mine soundpool" />
@@ -11,7 +13,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine VocalAGC" />
         <option value="package:mine VoiceRecord" />
-        <option value="package:mine FeedGoldTaskManager" />
         <option value="package:mine ====" />
         <option value="package:mine Krn" />
         <option value="package:mine ScreenRecordingManager" />
