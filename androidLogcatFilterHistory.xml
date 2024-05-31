@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onReceiveStreamMessage" />
+    <option name="mostRecentlyUsed" value="package:mine arya" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine arya" />
         <option value="package:mine onReceiveStreamMessage" />
         <option value="package:mine FeedGoldTaskManager" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine CloudGameLogRealTime" />
         <option value="package:mine RTMPlayer" />
         <option value="package:mine WaynePlayerController" />
-        <option value="package:mine CloudGame" />
       </list>
     </option>
   </component>
