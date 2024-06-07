@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PictionaryGameViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine PictionaryGamePartView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PictionaryGamePartView" />
         <option value="package:mine PictionaryGameViewModel" />
         <option value="package:mine level:error " />
         <option value="package:mine SignalManager" />
@@ -22,7 +23,6 @@
         <option value="package:mine VocalAGC" />
         <option value="package:mine VoiceRecord" />
         <option value="package:mine ====" />
-        <option value="package:mine Krn" />
       </list>
     </option>
   </component>
