@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PictionaryKLinkSignalManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine PictionaryKLinkSignalManager" />
         <option value="package:mine arya" />
         <option value="package:mine PictionaryGameFragment" />
@@ -11,7 +11,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine SignalManager" />
         <option value="package:mine onReceiveSignal" />
-        <option value="package:mine " />
         <option value="package:mine onReceiveStreamMessage" />
         <option value="package:mine createDataStream" />
         <option value="package:mine createDa" />
