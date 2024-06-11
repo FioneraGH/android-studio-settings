@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onAudioEffectStateChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onAudioEffectStateChanged" />
         <option value="package:mine " />
+        <option value="package:mine playAudioEffect" />
         <option value="package:mine PictionaryKLinkSignalManager" />
         <option value="package:mine arya" />
         <option value="package:mine PictionaryGameFragment" />
@@ -20,8 +23,6 @@
         <option value="level:error " />
         <option value="package:mine playMusic" />
         <option value="package:mine jsCalljsCall" />
-        <option value="package:mine VocalAGC" />
-        <option value="package:mine VoiceRecord" />
       </list>
     </option>
   </component>
