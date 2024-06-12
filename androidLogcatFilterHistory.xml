@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onDraw  isRedo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onDraw  isRedo" />
         <option value="package:mine PictionaryGame" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine onAudioEffectStateChanged" />
         <option value="package:mine playAudioEffect" />
