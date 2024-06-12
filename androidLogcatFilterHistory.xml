@@ -1,17 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onAudioEffectStateChanged" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onAudioEffectStateChanged" />
+        <option value="package:mine level:error " />
         <option value="package:mine " />
+        <option value="package:mine onAudioEffectStateChanged" />
         <option value="package:mine playAudioEffect" />
         <option value="package:mine PictionaryKLinkSignalManager" />
         <option value="package:mine arya" />
         <option value="package:mine PictionaryGameFragment" />
         <option value="package:mine PictionaryGamePartView" />
         <option value="package:mine PictionaryGameViewModel" />
-        <option value="package:mine level:error " />
         <option value="package:mine SignalManager" />
         <option value="package:mine onReceiveSignal" />
         <option value="package:mine onReceiveStreamMessage" />
