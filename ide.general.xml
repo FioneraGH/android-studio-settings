@@ -17,6 +17,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tooltip.initialDelay" value="997" />
     <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
