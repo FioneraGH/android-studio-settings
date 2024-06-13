@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine clearPa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine clearPa" />
         <option value="package:mine " />
         <option value="package:mine onDraw  isRedo" />
         <option value="package:mine PictionaryGame" />
@@ -21,7 +23,6 @@
         <option value="package:mine FeedGoldTaskManager" />
         <option value="package:mine BombGameResultDialog" />
         <option value="package:mine soundpool" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
