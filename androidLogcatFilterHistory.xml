@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PictionaryGame" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine PictionaryGame" />
         <option value="package:mine yyyyyyyyy" />
         <option value="package:mine LiveInterestGameScreenFragment" />
         <option value="package:mine clearPa" />
         <option value="package:mine " />
         <option value="package:mine onDraw  isRedo" />
-        <option value="package:mine level:error " />
         <option value="package:mine onAudioEffectStateChanged" />
         <option value="package:mine playAudioEffect" />
         <option value="package:mine PictionaryKLinkSignalManager" />
