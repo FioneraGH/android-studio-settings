@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine KrnToolBridgeModule" />
+        <option value="package:mine 404" />
         <option value="package:mine level:error " />
         <option value="package:mine PictionaryGame" />
         <option value="package:mine yyyyyyyyy" />
         <option value="package:mine LiveInterestGameScreenFragment" />
         <option value="package:mine clearPa" />
-        <option value="package:mine " />
         <option value="package:mine onDraw  isRedo" />
         <option value="package:mine onAudioEffectStateChanged" />
         <option value="package:mine playAudioEffect" />
@@ -21,8 +22,6 @@
         <option value="package:mine onReceiveSignal" />
         <option value="package:mine onReceiveStreamMessage" />
         <option value="package:mine createDataStream" />
-        <option value="package:mine createDa" />
-        <option value="package:mine FeedGoldTaskManager" />
       </list>
     </option>
   </component>
