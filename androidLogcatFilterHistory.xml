@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine KrnToolBridgeModule" />
         <option value="package:mine 404" />
-        <option value="package:mine level:error " />
         <option value="package:mine PictionaryGame" />
         <option value="package:mine yyyyyyyyy" />
         <option value="package:mine LiveInterestGameScreenFragment" />
