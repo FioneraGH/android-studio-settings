@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TextMsgPresenter" />
+    <option name="mostRecentlyUsed" value="package:mine KrnBottomSheetFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine KrnBottomSheetFragment" />
         <option value="package:mine TextMsgPresenter" />
         <option value="package:mine TextWithAudioMsgPresenter" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine PictionaryGamePartView" />
         <option value="package:mine PictionaryGameViewModel" />
         <option value="package:mine SignalManager" />
-        <option value="package:mine onReceiveSignal" />
       </list>
     </option>
   </component>
