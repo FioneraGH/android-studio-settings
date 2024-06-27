@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KrnBottomSheetFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine KrnBottomSheetFragment" />
         <option value="package:mine TextMsgPresenter" />
         <option value="package:mine TextWithAudioMsgPresenter" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine KrnToolBridgeModule" />
         <option value="package:mine 404" />
