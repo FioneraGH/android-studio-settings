@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.qnet.qk" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:com.qnet.qk" />
         <option value="level:error " />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine playAudioEffect" />
         <option value="package:mine PictionaryKLinkSignalManager" />
         <option value="package:mine arya" />
-        <option value="package:mine PictionaryGameFragment" />
       </list>
     </option>
   </component>
