@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine TextWithAudioMsgPresenter" />
         <option value="package:mine TextMsg" />
         <option value="package:mine KrnBottomSheetFragment" />
         <option value="package:mine TextMsgPresenter" />
-        <option value="package:mine level:error " />
         <option value="package:mine KrnToolBridgeModule" />
         <option value="package:mine 404" />
         <option value="package:mine PictionaryGame" />
@@ -21,7 +23,6 @@
         <option value="package:mine arya" />
         <option value="package:mine PictionaryGameFragment" />
         <option value="package:mine PictionaryGamePartView" />
-        <option value="package:mine PictionaryGameViewModel" />
       </list>
     </option>
   </component>
