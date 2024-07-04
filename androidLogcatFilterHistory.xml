@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.qnet.qk " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.qnet.qk " />
         <option value="package:mine " />
         <option value="package:mine reac" />
         <option value="package:mine BottomBannerStyle3" />
@@ -21,7 +23,6 @@
         <option value="package:mine clearPa" />
         <option value="package:mine onDraw  isRedo" />
         <option value="package:mine onAudioEffectStateChanged" />
-        <option value="package:mine playAudioEffect" />
       </list>
     </option>
   </component>
