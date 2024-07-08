@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.qnet.qk " />
+    <option name="mostRecentlyUsed" value="package:com.kwai.hisense pagerY:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kwai.hisense pagerY:" />
         <option value="package:com.qnet.qk " />
         <option value="package:mine " />
         <option value="package:mine reac" />
@@ -22,7 +23,6 @@
         <option value="package:mine LiveInterestGameScreenFragment" />
         <option value="package:mine clearPa" />
         <option value="package:mine onDraw  isRedo" />
-        <option value="package:mine onAudioEffectStateChanged" />
       </list>
     </option>
   </component>
