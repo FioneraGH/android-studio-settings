@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.kwai.hisense guestY:" />
+    <option name="mostRecentlyUsed" value="package:com.kwai.hisense data size c" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kwai.hisense data size c" />
         <option value="package:com.kwai.hisense guestY:" />
         <option value="package:com.kwai.hisense layoutRoomUserCount" />
         <option value="package:com.kwai.hisense pagerY:" />
@@ -22,7 +23,6 @@
         <option value="package:mine 404" />
         <option value="package:mine PictionaryGame" />
         <option value="package:mine yyyyyyyyy" />
-        <option value="package:mine LiveInterestGameScreenFragment" />
       </list>
     </option>
   </component>
