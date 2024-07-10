@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.kwai.hisense data size c" />
         <option value="package:com.kwai.hisense guestY:" />
         <option value="package:com.kwai.hisense layoutRoomUserCount" />
         <option value="package:com.kwai.hisense pagerY:" />
         <option value="package:com.qnet.qk " />
-        <option value="package:mine " />
         <option value="package:mine reac" />
         <option value="package:mine BottomBannerStyle3" />
         <option value="package:mine" />
