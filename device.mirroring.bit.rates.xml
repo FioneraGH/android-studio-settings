@@ -5,10 +5,11 @@
         <entry key="HUAWEI|OXF-AN10|arm64-v8a|31">
           <value>
             <BitRateTracker>
+              <option name="bitRate" value="5000000" />
               <candidates>
                 <CandidateBitRate>
-                  <option name="bitRate" value="5000000" />
-                  <option name="score" value="668" />
+                  <option name="bitRate" value="2000000" />
+                  <option name="score" value="334" />
                 </CandidateBitRate>
               </candidates>
             </BitRateTracker>
