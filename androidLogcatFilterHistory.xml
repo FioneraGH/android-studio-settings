@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine save Storage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine save Storage" />
+        <option value="package:mine dbName" />
+        <option value="package:mine ReactNative" />
         <option value="package:mine " />
         <option value="package:com.kwai.hisense data size c" />
         <option value="package:com.kwai.hisense guestY:" />
@@ -19,9 +23,6 @@
         <option value="package:mine KrnBottomSheetFragment" />
         <option value="package:mine TextMsgPresenter" />
         <option value="package:mine KrnToolBridgeModule" />
-        <option value="package:mine 404" />
-        <option value="package:mine PictionaryGame" />
-        <option value="package:mine yyyyyyyyy" />
       </list>
     </option>
   </component>
