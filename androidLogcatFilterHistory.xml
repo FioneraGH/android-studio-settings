@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine save Storage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine onRequestRoomInfoSuccess" />
+        <option value="package:mine level:error " />
         <option value="package:mine save Storage" />
         <option value="package:mine dbName" />
         <option value="package:mine ReactNative" />
-        <option value="package:mine " />
         <option value="package:com.kwai.hisense data size c" />
         <option value="package:com.kwai.hisense guestY:" />
         <option value="package:com.kwai.hisense layoutRoomUserCount" />
@@ -17,12 +18,10 @@
         <option value="package:mine" />
         <option value="package:com.qnet.qk" />
         <option value="level:error " />
-        <option value="package:mine level:error " />
         <option value="package:mine TextWithAudioMsgPresenter" />
         <option value="package:mine TextMsg" />
         <option value="package:mine KrnBottomSheetFragment" />
         <option value="package:mine TextMsgPresenter" />
-        <option value="package:mine KrnToolBridgeModule" />
       </list>
     </option>
   </component>
