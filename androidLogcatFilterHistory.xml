@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine webview" />
         <option value="package:mine " />
         <option value="package:mine topentrancetrack" />
         <option value="package:mine topentrance" />
@@ -21,7 +23,6 @@
         <option value="package:com.qnet.qk" />
         <option value="level:error " />
         <option value="package:mine TextWithAudioMsgPresenter" />
-        <option value="package:mine TextMsg" />
       </list>
     </option>
   </component>
