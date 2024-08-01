@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine onSecuriySuccess" />
+        <option value="package:mine checkEnv" />
         <option value="package:mine AudioWithAsr" />
         <option value="package:mine webview" />
         <option value="package:mine topentrancetrack" />
@@ -20,8 +22,6 @@
         <option value="package:mine reac" />
         <option value="package:mine BottomBannerStyle3" />
         <option value="package:mine" />
-        <option value="package:com.qnet.qk" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
