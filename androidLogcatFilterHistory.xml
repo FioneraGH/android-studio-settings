@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KlinkConfig" />
+    <option name="mostRecentlyUsed" value="package:mine AudioWithAsr" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AudioWithAsr" />
         <option value="package:mine KlinkConfig" />
         <option value="package:mine " />
         <option value="package:mine onSecuriySuccess" />
         <option value="package:mine checkEnv" />
-        <option value="package:mine AudioWithAsr" />
         <option value="package:mine webview" />
         <option value="package:mine topentrancetrack" />
         <option value="package:mine topentrance" />
