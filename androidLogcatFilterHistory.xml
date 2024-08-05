@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine klink" />
+    <option name="mostRecentlyUsed" value="package:mine quic" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine klink" />
         <option value="package:mine quic" />
+        <option value="package:mine klink" />
         <option value="package:mine " />
         <option value="package:mine AudioWithAsr" />
         <option value="package:mine KlinkConfig" />
