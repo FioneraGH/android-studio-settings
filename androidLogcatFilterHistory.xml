@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine AudioWithAsr" />
+    <option name="mostRecentlyUsed" value="package:mine klink" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine klink" />
+        <option value="package:mine quic" />
+        <option value="package:mine " />
         <option value="package:mine AudioWithAsr" />
         <option value="package:mine KlinkConfig" />
-        <option value="package:mine " />
         <option value="package:mine onSecuriySuccess" />
         <option value="package:mine checkEnv" />
         <option value="package:mine webview" />
@@ -21,8 +23,6 @@
         <option value="package:com.kwai.hisense layoutRoomUserCount" />
         <option value="package:com.kwai.hisense pagerY:" />
         <option value="package:com.qnet.qk " />
-        <option value="package:mine reac" />
-        <option value="package:mine BottomBannerStyle3" />
       </list>
     </option>
   </component>
