@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine quiccon" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine fata" />
         <option value="package:mine quiccon" />
         <option value="package:mine quic" />
         <option value="package:mine syncRuntimeState start" />
         <option value="package:mine KwaiLinkClient" />
         <option value="package:mine [Klink]" />
         <option value="package:mine klink" />
-        <option value="package:mine " />
         <option value="package:mine AudioWithAsr" />
         <option value="package:mine KlinkConfig" />
         <option value="package:mine onSecuriySuccess" />
@@ -22,7 +23,6 @@
         <option value="package:mine save Storage" />
         <option value="package:mine dbName" />
         <option value="package:mine ReactNative" />
-        <option value="package:com.kwai.hisense data size c" />
       </list>
     </option>
   </component>
