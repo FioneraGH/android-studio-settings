@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine Tachikoma" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Tachikoma" />
         <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine quiccon" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine save Storage" />
         <option value="package:mine dbName" />
-        <option value="package:mine ReactNative" />
       </list>
     </option>
   </component>
