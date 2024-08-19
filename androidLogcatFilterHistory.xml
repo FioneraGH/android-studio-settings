@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine V8Engine" />
+    <option name="mostRecentlyUsed" value="package:mine V8" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine V8" />
+        <option value="package:mine " />
         <option value="package:mine V8Engine" />
         <option value="package:mine fatal" />
         <option value="package:mine Tachikoma" />
-        <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine quiccon" />
         <option value="package:mine quic" />
@@ -22,7 +23,6 @@
         <option value="package:mine topentrancetrack" />
         <option value="package:mine topentrance" />
         <option value="package:mine onRequestRoomInfoSuccess" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
