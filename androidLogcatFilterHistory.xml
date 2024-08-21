@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine =========" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine =========" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine V8" />
@@ -21,7 +23,6 @@
         <option value="package:mine webview" />
         <option value="package:mine topentrancetrack" />
         <option value="package:mine topentrance" />
-        <option value="package:mine onRequestRoomInfoSuccess" />
       </list>
     </option>
   </component>
