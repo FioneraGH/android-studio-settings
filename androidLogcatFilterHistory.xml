@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine showT" />
+    <option name="mostRecentlyUsed" value="package:mine =====change tab" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine =====change tab" />
         <option value="package:mine showT" />
         <option value="package:mine getApp" />
         <option value="package:mine =========" />
@@ -22,7 +23,6 @@
         <option value="package:mine KlinkConfig" />
         <option value="package:mine onSecuriySuccess" />
         <option value="package:mine checkEnv" />
-        <option value="package:mine webview" />
       </list>
     </option>
   </component>
