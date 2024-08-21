@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine =====change tab" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine =====change tab" />
         <option value="package:mine showT" />
         <option value="package:mine getApp" />
         <option value="package:mine =========" />
-        <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine V8" />
         <option value="package:mine V8Engine" />
