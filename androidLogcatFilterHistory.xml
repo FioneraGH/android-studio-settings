@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine updateAecMode" />
+    <option name="mostRecentlyUsed" value="package:mine setCl" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine updateAecMode" />
+        <option value="package:mine setCl" />
+        <option value="package:mine KwaiTKReporter" />
+        <option value="package:mine TEST_BRIDGE_ELEMENT" />
         <option value="package:mine " />
+        <option value="package:mine setClient" />
+        <option value="package:mine updateAecMode" />
         <option value="package:mine setData" />
         <option value="package:mine =====change tab" />
         <option value="package:mine showT" />
@@ -19,10 +23,6 @@
         <option value="package:mine quic" />
         <option value="package:mine syncRuntimeState start" />
         <option value="package:mine KwaiLinkClient" />
-        <option value="package:mine [Klink]" />
-        <option value="package:mine klink" />
-        <option value="package:mine AudioWithAsr" />
-        <option value="package:mine KlinkConfig" />
       </list>
     </option>
   </component>
