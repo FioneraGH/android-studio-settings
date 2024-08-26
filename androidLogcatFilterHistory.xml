@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine setCl" />
+    <option name="mostRecentlyUsed" value="package:mine KwaiTKReporter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine setCl" />
         <option value="package:mine KwaiTKReporter" />
+        <option value="package:mine KwaiTkR" />
+        <option value="package:mine setCl" />
         <option value="package:mine TEST_BRIDGE_ELEMENT" />
         <option value="package:mine " />
         <option value="package:mine setClient" />
@@ -22,7 +23,6 @@
         <option value="package:mine quiccon" />
         <option value="package:mine quic" />
         <option value="package:mine syncRuntimeState start" />
-        <option value="package:mine KwaiLinkClient" />
       </list>
     </option>
   </component>
