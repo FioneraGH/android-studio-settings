@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KwaiTKReporter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine KwaiTKReporter" />
         <option value="package:mine Container" />
         <option value="package:mine KwaiTkR" />
         <option value="package:mine setCl" />
         <option value="package:mine TEST_BRIDGE_ELEMENT" />
-        <option value="package:mine " />
         <option value="package:mine setClient" />
         <option value="package:mine updateAecMode" />
         <option value="package:mine setData" />
