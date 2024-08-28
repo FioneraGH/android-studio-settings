@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine ====" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ====" />
+        <option value="package:mine one" />
+        <option value="package:mine setD" />
         <option value="package:mine " />
         <option value="package:mine setDa" />
         <option value="package:mine KwaiTKReporter" />
@@ -19,9 +23,6 @@
         <option value="package:mine fatal" />
         <option value="package:mine V8" />
         <option value="package:mine V8Engine" />
-        <option value="package:mine Tachikoma" />
-        <option value="package:mine fata" />
-        <option value="package:mine quiccon" />
       </list>
     </option>
   </component>
