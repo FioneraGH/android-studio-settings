@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine ====" />
+        <option value="package:mine setData" />
         <option value="package:mine one" />
         <option value="package:mine setD" />
         <option value="package:mine " />
@@ -15,7 +16,6 @@
         <option value="package:mine TEST_BRIDGE_ELEMENT" />
         <option value="package:mine setClient" />
         <option value="package:mine updateAecMode" />
-        <option value="package:mine setData" />
         <option value="package:mine =====change tab" />
         <option value="package:mine showT" />
         <option value="package:mine getApp" />
