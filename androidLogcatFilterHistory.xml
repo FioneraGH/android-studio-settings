@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:StorageSpaceManage" />
+    <option name="mostRecentlyUsed" value="package:mine TKRepo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TKRepo" />
+        <option value="package:mine " />
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="package:mine StorageSpaceManage" />
         <option value="package:mine asr" />
-        <option value="package:mine " />
         <option value="package:mine KwaiTKKSwitch" />
         <option value="package:mine ====" />
         <option value="package:mine setData" />
@@ -22,7 +23,6 @@
         <option value="package:mine updateAecMode" />
         <option value="package:mine =====change tab" />
         <option value="package:mine showT" />
-        <option value="package:mine getApp" />
       </list>
     </option>
   </component>
