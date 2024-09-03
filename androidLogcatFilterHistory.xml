@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine cras" />
+    <option name="mostRecentlyUsed" value="package:mine crash" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine crash" />
+        <option value="package:mine upload" />
+        <option value="package:mine o" />
+        <option value="package:mine crashmo" />
         <option value="package:mine cras" />
         <option value="package:mine " />
         <option value="package:mine !" />
-        <option value="package:mine crash" />
         <option value="package:mine ======================" />
         <option value="package:mine ===========" />
         <option value="package:mine ========" />
@@ -20,9 +23,6 @@
         <option value="package:mine one" />
         <option value="package:mine setD" />
         <option value="package:mine setDa" />
-        <option value="package:mine KwaiTKReporter" />
-        <option value="package:mine Container" />
-        <option value="package:mine KwaiTkR" />
       </list>
     </option>
   </component>
