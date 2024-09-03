@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine ======================" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ======================" />
         <option value="package:mine ===========" />
         <option value="package:mine ========" />
         <option value="package:mine StorageSpaceManage" />
@@ -22,7 +23,6 @@
         <option value="package:mine setCl" />
         <option value="package:mine TEST_BRIDGE_ELEMENT" />
         <option value="package:mine setClient" />
-        <option value="package:mine updateAecMode" />
       </list>
     </option>
   </component>
