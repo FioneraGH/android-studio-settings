@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine StorageSpaceManage" />
+    <option name="mostRecentlyUsed" value="package:mine ======================" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ===========" />
+        <option value="package:mine ========" />
         <option value="package:mine StorageSpaceManage" />
         <option value="package:mine TKRepo" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine TEST_BRIDGE_ELEMENT" />
         <option value="package:mine setClient" />
         <option value="package:mine updateAecMode" />
-        <option value="package:mine =====change tab" />
-        <option value="package:mine showT" />
       </list>
     </option>
   </component>
