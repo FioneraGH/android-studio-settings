@@ -1,14 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ======================" />
+    <option name="mostRecentlyUsed" value="package:mine cras" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine cras" />
+        <option value="package:mine " />
+        <option value="package:mine !" />
+        <option value="package:mine crash" />
         <option value="package:mine ======================" />
         <option value="package:mine ===========" />
         <option value="package:mine ========" />
         <option value="package:mine StorageSpaceManage" />
         <option value="package:mine TKRepo" />
-        <option value="package:mine " />
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="package:mine asr" />
         <option value="package:mine KwaiTKKSwitch" />
@@ -20,9 +23,6 @@
         <option value="package:mine KwaiTKReporter" />
         <option value="package:mine Container" />
         <option value="package:mine KwaiTkR" />
-        <option value="package:mine setCl" />
-        <option value="package:mine TEST_BRIDGE_ELEMENT" />
-        <option value="package:mine setClient" />
       </list>
     </option>
   </component>
