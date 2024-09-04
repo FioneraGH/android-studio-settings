@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine crash" />
+    <option name="mostRecentlyUsed" value="package:mine SwitchConfig" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SwitchConfig" />
         <option value="package:mine crash" />
         <option value="package:mine upload" />
         <option value="package:mine o" />
@@ -22,7 +23,6 @@
         <option value="package:mine setData" />
         <option value="package:mine one" />
         <option value="package:mine setD" />
-        <option value="package:mine setDa" />
       </list>
     </option>
   </component>
