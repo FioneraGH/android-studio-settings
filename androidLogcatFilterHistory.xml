@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine KwaiTk" />
+    <option name="mostRecentlyUsed" value="package:mine banner set data " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine banner set data " />
+        <option value="package:mine set data " />
         <option value="package:mine KwaiTk" />
         <option value="package:mine SwitchConfig" />
         <option value="package:mine crash" />
@@ -21,8 +23,6 @@
         <option value="package:mine asr" />
         <option value="package:mine KwaiTKKSwitch" />
         <option value="package:mine ====" />
-        <option value="package:mine setData" />
-        <option value="package:mine one" />
       </list>
     </option>
   </component>
