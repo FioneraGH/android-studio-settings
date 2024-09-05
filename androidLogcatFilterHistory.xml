@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine KwaiTKR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine KwaiTKR " />
+        <option value="package:mine KwaiTk" />
         <option value="package:mine  " />
         <option value="package:mine banner set data " />
         <option value="package:mine set data " />
-        <option value="package:mine KwaiTk" />
         <option value="package:mine SwitchConfig" />
         <option value="package:mine crash" />
         <option value="package:mine upload" />
@@ -22,7 +23,6 @@
         <option value="package:mine TKRepo" />
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="package:mine asr" />
-        <option value="package:mine KwaiTKKSwitch" />
       </list>
     </option>
   </component>
