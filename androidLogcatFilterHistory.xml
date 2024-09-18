@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UserMedalListView" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine UserMedalListView" />
         <option value="package:mine " />
+        <option value="package:mine UserMedalListView" />
         <option value="package:mine azeroth config changed switches" />
         <option value="package:mine azeroth" />
         <option value="package:mine switch" />
