@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine azeroth config changed switches" />
+    <option name="mostRecentlyUsed" value="package:mine UserMedalListView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine UserMedalListView" />
+        <option value="package:mine " />
         <option value="package:mine azeroth config changed switches" />
         <option value="package:mine azeroth" />
-        <option value="package:mine " />
         <option value="package:mine switch" />
         <option value="package:mine Switc" />
         <option value="package:mine Switc " />
@@ -22,7 +23,6 @@
         <option value="package:mine crashmo" />
         <option value="package:mine cras" />
         <option value="package:mine !" />
-        <option value="package:mine ======================" />
       </list>
     </option>
   </component>
