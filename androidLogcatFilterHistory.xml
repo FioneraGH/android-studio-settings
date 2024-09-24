@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine State changed to: " />
+    <option name="mostRecentlyUsed" value="package:mine ImvAppKlinkMsgCount" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ImvAppKlinkMsgCount" />
+        <option value="package:mine PushProcessInterceptor" />
+        <option value="package:mine klink" />
         <option value="package:mine State changed to: " />
         <option value="package:mine State changed to " />
         <option value="package:mine BizIM " />
@@ -20,9 +23,6 @@
         <option value="package:mine azeroth" />
         <option value="package:mine switch" />
         <option value="package:mine Switc" />
-        <option value="package:mine Switc " />
-        <option value="package:mine CONSOLE " />
-        <option value="package:mine KwaiTKR " />
       </list>
     </option>
   </component>
