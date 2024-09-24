@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine set data " />
+    <option name="mostRecentlyUsed" value="package:mine ProcessAliveCounter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ProcessAliveCounter " />
+        <option value="package:mine AppState " />
         <option value="package:mine set data " />
         <option value="package:mine setData " />
         <option value="package:mine banner image set " />
@@ -21,8 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine banner set data " />
         <option value="package:mine SwitchConfig" />
-        <option value="package:mine crash" />
-        <option value="package:mine upload" />
       </list>
     </option>
   </component>
