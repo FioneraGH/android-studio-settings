@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ImvAppKlinkMsgCount" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ImvAppKlinkMsgCount" />
         <option value="package:mine PushProcessInterceptor" />
         <option value="package:mine klink" />
@@ -17,7 +17,6 @@
         <option value="package:mine banner image set " />
         <option value="package:mine banner text " />
         <option value="package:mine banner text match" />
-        <option value="package:mine " />
         <option value="package:mine UserMedalListView" />
         <option value="package:mine azeroth config changed switches" />
         <option value="package:mine azeroth" />
