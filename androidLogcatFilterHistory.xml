@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TestHandlerAlive" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine TestHandlerAlive" />
         <option value="package:mine SwitchConfigManager" />
         <option value="package:mine WebViewFragment" />
-        <option value="package:mine " />
         <option value="package:mine ImvAppKlinkMsgCount" />
         <option value="package:mine PushProcessInterceptor" />
         <option value="package:mine klink" />
