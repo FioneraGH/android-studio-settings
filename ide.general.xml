@@ -19,7 +19,6 @@
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="terminal.new.ui" value="true" />
     <entry key="vcs.log.index.enable" value="true" />
-    <entry key="ide.images.show.chessboard" value="true" />
     <entry key="i18n.locale" value="" />
   </component>
   <component name="StatusBar">
