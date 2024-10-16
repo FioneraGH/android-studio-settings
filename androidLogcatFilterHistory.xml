@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Atlas" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Atlas" />
         <option value="package:mine " />
         <option value="package:mine TestHandlerAlive" />
         <option value="package:mine SwitchConfigManager" />
@@ -21,7 +23,6 @@
         <option value="package:mine banner text " />
         <option value="package:mine banner text match" />
         <option value="package:mine UserMedalListView" />
-        <option value="package:mine azeroth config changed switches" />
       </list>
     </option>
   </component>
