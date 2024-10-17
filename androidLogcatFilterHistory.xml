@@ -5,6 +5,7 @@
       <list>
         <option value="atlas" />
         <option value="start process:" />
+        <option value="No heads up" />
         <option value="ANDROID_a64" />
         <option value="am_proc_start" />
         <option value="com.kwai.hisense" />
@@ -22,7 +23,6 @@
         <option value="package:mine EGID" />
         <option value="package:mine connect" />
         <option value="package:mine KwaiLinkClient" />
-        <option value="package:mine KwaiLinkConnectState" />
       </list>
     </option>
   </component>
