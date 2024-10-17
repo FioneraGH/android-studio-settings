@@ -4,6 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="start process:" />
+        <option value="start process:com.kwai" />
+        <option value="start process" />
+        <option value="CAMERKIT_PROVIDER_AUTHORITY" />
+        <option value="Need to start process" />
+        <option value="ContentProvider" />
         <option value="atlas" />
         <option value="egid" />
         <option value="Atlas" />
@@ -18,11 +23,6 @@
         <option value="package:mine KLink" />
         <option value="package:mine KL" />
         <option value="package:mine IM" />
-        <option value="package:mine Atlas" />
-        <option value="package:mine TestHandlerAlive" />
-        <option value="package:mine SwitchConfigManager" />
-        <option value="package:mine WebViewFragment" />
-        <option value="package:mine ImvAppKlinkMsgCount" />
       </list>
     </option>
   </component>
