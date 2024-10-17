@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Atlas" />
+    <option name="mostRecentlyUsed" value="package:mine connect" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine connect" />
+        <option value="package:mine KwaiLinkClient" />
+        <option value="package:mine KwaiLinkConnectState" />
+        <option value="package:mine KLink" />
+        <option value="package:mine KL" />
+        <option value="package:mine IM" />
         <option value="package:mine Atlas" />
         <option value="package:mine " />
         <option value="package:mine TestHandlerAlive" />
@@ -17,12 +23,6 @@
         <option value="package:mine ImvAppKlinkMsgCount " />
         <option value="package:mine ProcessAliveCounter " />
         <option value="package:mine AppState " />
-        <option value="package:mine set data " />
-        <option value="package:mine setData " />
-        <option value="package:mine banner image set " />
-        <option value="package:mine banner text " />
-        <option value="package:mine banner text match" />
-        <option value="package:mine UserMedalListView" />
       </list>
     </option>
   </component>
