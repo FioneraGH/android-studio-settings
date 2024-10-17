@@ -4,9 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="start process:" />
+        <option value="ANDROID_a64" />
         <option value="atlas" />
-        <option value="Process com.kwai.hisense" />
+        <option value="am_proc_start" />
         <option value="com.kwai.hisense" />
+        <option value="Process com.kwai.hisense" />
         <option value="start process:com.kwai" />
         <option value="start process" />
         <option value="CAMERKIT_PROVIDER_AUTHORITY" />
@@ -21,8 +23,6 @@
         <option value="package:mine connect" />
         <option value="package:mine KwaiLinkClient" />
         <option value="package:mine KwaiLinkConnectState" />
-        <option value="package:mine KLink" />
-        <option value="package:mine KL" />
       </list>
     </option>
   </component>
