@@ -4,16 +4,17 @@
     <option name="nonFavorites">
       <list>
         <option value="start process:" />
+        <option value="atlas" />
+        <option value="Process com.kwai.hisense" />
+        <option value="com.kwai.hisense" />
         <option value="start process:com.kwai" />
         <option value="start process" />
         <option value="CAMERKIT_PROVIDER_AUTHORITY" />
         <option value="Need to start process" />
         <option value="ContentProvider" />
-        <option value="atlas" />
         <option value="egid" />
         <option value="Atlas" />
         <option value="package:mine " />
-        <option value="com.kwai.hisense" />
         <option value="permissio" />
         <option value="package:mine get egid:" />
         <option value="package:mine EGID" />
@@ -22,7 +23,6 @@
         <option value="package:mine KwaiLinkConnectState" />
         <option value="package:mine KLink" />
         <option value="package:mine KL" />
-        <option value="package:mine IM" />
       </list>
     </option>
   </component>
