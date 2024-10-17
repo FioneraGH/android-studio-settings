@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine connect" />
+    <option name="mostRecentlyUsed" value="Atlas" />
     <option name="nonFavorites">
       <list>
+        <option value="Atlas" />
+        <option value="package:mine " />
+        <option value="com.kwai.hisense" />
+        <option value="permissio" />
+        <option value="package:mine get egid:" />
+        <option value="package:mine EGID" />
         <option value="package:mine connect" />
         <option value="package:mine KwaiLinkClient" />
         <option value="package:mine KwaiLinkConnectState" />
@@ -10,7 +16,6 @@
         <option value="package:mine KL" />
         <option value="package:mine IM" />
         <option value="package:mine Atlas" />
-        <option value="package:mine " />
         <option value="package:mine TestHandlerAlive" />
         <option value="package:mine SwitchConfigManager" />
         <option value="package:mine WebViewFragment" />
@@ -18,11 +23,6 @@
         <option value="package:mine PushProcessInterceptor" />
         <option value="package:mine klink" />
         <option value="package:mine State changed to: " />
-        <option value="package:mine State changed to " />
-        <option value="package:mine BizIM " />
-        <option value="package:mine ImvAppKlinkMsgCount " />
-        <option value="package:mine ProcessAliveCounter " />
-        <option value="package:mine AppState " />
       </list>
     </option>
   </component>
