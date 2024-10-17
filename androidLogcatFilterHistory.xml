@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Atlas" />
+    <option name="mostRecentlyUsed" value="atlas" />
     <option name="nonFavorites">
       <list>
+        <option value="atlas" />
+        <option value="egid" />
         <option value="Atlas" />
         <option value="package:mine " />
         <option value="com.kwai.hisense" />
@@ -21,8 +23,6 @@
         <option value="package:mine WebViewFragment" />
         <option value="package:mine ImvAppKlinkMsgCount" />
         <option value="package:mine PushProcessInterceptor" />
-        <option value="package:mine klink" />
-        <option value="package:mine State changed to: " />
       </list>
     </option>
   </component>
