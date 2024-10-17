@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="start process:" />
+    <option name="mostRecentlyUsed" value="atlas" />
     <option name="nonFavorites">
       <list>
+        <option value="atlas" />
         <option value="start process:" />
         <option value="ANDROID_a64" />
-        <option value="atlas" />
         <option value="am_proc_start" />
         <option value="com.kwai.hisense" />
         <option value="Process com.kwai.hisense" />
