@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="atlas" />
+    <option name="mostRecentlyUsed" value="Restriction" />
     <option name="nonFavorites">
       <list>
+        <option value="Restriction" />
+        <option value="Restric" />
+        <option value="start proc" />
+        <option value="start proces" />
         <option value="atlas" />
         <option value="start process:" />
         <option value="No heads up" />
@@ -19,10 +23,6 @@
         <option value="Atlas" />
         <option value="package:mine " />
         <option value="permissio" />
-        <option value="package:mine get egid:" />
-        <option value="package:mine EGID" />
-        <option value="package:mine connect" />
-        <option value="package:mine KwaiLinkClient" />
       </list>
     </option>
   </component>
