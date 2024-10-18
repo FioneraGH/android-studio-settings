@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Restriction" />
+    <option name="mostRecentlyUsed" value="JobSer" />
     <option name="nonFavorites">
       <list>
+        <option value="JobSer" />
+        <option value="atlas" />
         <option value="Restriction" />
         <option value="Restric" />
         <option value="start proc" />
         <option value="start proces" />
-        <option value="atlas" />
         <option value="start process:" />
         <option value="No heads up" />
         <option value="ANDROID_a64" />
@@ -22,7 +23,6 @@
         <option value="egid" />
         <option value="Atlas" />
         <option value="package:mine " />
-        <option value="permissio" />
       </list>
     </option>
   </component>
