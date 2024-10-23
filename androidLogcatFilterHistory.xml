@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine JobService" />
+        <option value="package:mine " />
         <option value="fatal" />
         <option value="Image" />
         <option value="JobSer" />
@@ -22,7 +23,6 @@
         <option value="start process" />
         <option value="CAMERKIT_PROVIDER_AUTHORITY" />
         <option value="Need to start process" />
-        <option value="ContentProvider" />
       </list>
     </option>
   </component>
