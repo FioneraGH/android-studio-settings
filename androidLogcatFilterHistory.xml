@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine JobService" />
+    <option name="mostRecentlyUsed" value="fata" />
     <option name="nonFavorites">
       <list>
+        <option value="fata" />
         <option value="package:mine JobService" />
         <option value="package:mine " />
         <option value="fatal" />
@@ -22,7 +23,6 @@
         <option value="start process:com.kwai" />
         <option value="start process" />
         <option value="CAMERKIT_PROVIDER_AUTHORITY" />
-        <option value="Need to start process" />
       </list>
     </option>
   </component>
