@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine JobService" />
+    <option name="mostRecentlyUsed" value="package:mine addCalend" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine addCalend" />
         <option value="package:mine JobService" />
         <option value="fata" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="Process com.kwai.hisense" />
         <option value="start process:com.kwai" />
         <option value="start process" />
-        <option value="CAMERKIT_PROVIDER_AUTHORITY" />
       </list>
     </option>
   </component>
