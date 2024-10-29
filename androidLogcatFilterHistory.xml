@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine bridge" />
         <option value="package:mine fatal" />
         <option value="package:mine addCalend" />
         <option value="package:mine JobService" />
@@ -21,7 +22,6 @@
         <option value="am_proc_start" />
         <option value="com.kwai.hisense" />
         <option value="Process com.kwai.hisense" />
-        <option value="start process:com.kwai" />
       </list>
     </option>
   </component>
