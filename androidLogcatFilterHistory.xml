@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine GiftShopAdapter" />
+    <option name="mostRecentlyUsed" value="package:mine fata" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fata" />
+        <option value="package:mine " />
+        <option value="package:mine fatal" />
         <option value="package:mine GiftShopAdapter" />
         <option value="package:mine DeviceIdProvider" />
         <option value="package:mine Atlas" />
-        <option value="package:mine " />
         <option value="package:mine bridge" />
-        <option value="package:mine fatal" />
         <option value="package:mine addCalend" />
         <option value="package:mine JobService" />
         <option value="fata" />
@@ -22,7 +23,6 @@
         <option value="start proces" />
         <option value="start process:" />
         <option value="No heads up" />
-        <option value="ANDROID_a64" />
       </list>
     </option>
   </component>
