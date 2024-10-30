@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DeviceIdProvider" />
+    <option name="mostRecentlyUsed" value="package:mine GiftShopAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine GiftShopAdapter" />
         <option value="package:mine DeviceIdProvider" />
         <option value="package:mine Atlas" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="start process:" />
         <option value="No heads up" />
         <option value="ANDROID_a64" />
-        <option value="am_proc_start" />
       </list>
     </option>
   </component>
