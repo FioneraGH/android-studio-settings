@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fata" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="fata" />
         <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
@@ -12,7 +14,6 @@
         <option value="package:mine bridge" />
         <option value="package:mine addCalend" />
         <option value="package:mine JobService" />
-        <option value="fata" />
         <option value="fatal" />
         <option value="Image" />
         <option value="JobSer" />
@@ -22,7 +23,6 @@
         <option value="start proc" />
         <option value="start proces" />
         <option value="start process:" />
-        <option value="No heads up" />
       </list>
     </option>
   </component>
