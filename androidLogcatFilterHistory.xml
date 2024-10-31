@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine process=:com.kwai.hisense:push_v3 " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine process=:com.kwai.hisense:push_v3 " />
         <option value="package:mine " />
+        <option value="package:mine process=:com.kwai.hisense:push_v3 " />
         <option value="package:mine Atlas" />
         <option value="package:mine Altas" />
         <option value="level:error " />
