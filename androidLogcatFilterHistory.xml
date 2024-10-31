@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine ChatActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ChatActivity" />
         <option value="package:mine " />
         <option value="package:mine process=:com.kwai.hisense:push_v3 " />
         <option value="package:mine Atlas" />
@@ -21,7 +23,6 @@
         <option value="atlas" />
         <option value="Restriction" />
         <option value="Restric" />
-        <option value="start proc" />
       </list>
     </option>
   </component>
