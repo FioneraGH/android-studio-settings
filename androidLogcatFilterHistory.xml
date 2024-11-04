@@ -1,12 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Push" />
+    <option name="mostRecentlyUsed" value="package:mine tag:StorageSpaceManage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:StorageSpaceManage" />
+        <option value="process:com.kwai.hisense " />
+        <option value="atlas" />
+        <option value="start proc" />
+        <option value="package:mine " />
+        <option value="package:mine startPr" />
         <option value="package:mine Push" />
         <option value="package:mine PushSDK" />
         <option value="package:mine ChatActivity" />
-        <option value="package:mine " />
         <option value="package:mine process=:com.kwai.hisense:push_v3 " />
         <option value="package:mine Atlas" />
         <option value="package:mine Altas" />
@@ -18,11 +23,6 @@
         <option value="package:mine DeviceIdProvider" />
         <option value="package:mine bridge" />
         <option value="package:mine addCalend" />
-        <option value="package:mine JobService" />
-        <option value="fatal" />
-        <option value="Image" />
-        <option value="JobSer" />
-        <option value="atlas" />
       </list>
     </option>
   </component>
