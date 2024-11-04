@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ChatActivity" />
+    <option name="mostRecentlyUsed" value="package:mine Push" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Push" />
+        <option value="package:mine PushSDK" />
         <option value="package:mine ChatActivity" />
         <option value="package:mine " />
         <option value="package:mine process=:com.kwai.hisense:push_v3 " />
@@ -21,8 +23,6 @@
         <option value="Image" />
         <option value="JobSer" />
         <option value="atlas" />
-        <option value="Restriction" />
-        <option value="Restric" />
       </list>
     </option>
   </component>
