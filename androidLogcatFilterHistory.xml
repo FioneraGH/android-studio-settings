@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:StorageSpaceManage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="process:com.kwai.hisense " />
         <option value="atlas" />
         <option value="start proc" />
-        <option value="package:mine " />
         <option value="package:mine startPr" />
         <option value="package:mine Push" />
         <option value="package:mine PushSDK" />
