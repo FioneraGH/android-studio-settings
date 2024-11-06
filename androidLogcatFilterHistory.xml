@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Atlas" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Atlas" />
+        <option value="fatal" />
+        <option value="iaware" />
+        <option value=" package:com.smile.gifmaker " />
+        <option value="package:com.smile.gifmaker " />
+        <option value="package:mine atlas" />
         <option value="package:mine " />
+        <option value="package:mine Atlas" />
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="process:com.kwai.hisense " />
         <option value="atlas" />
@@ -18,11 +23,6 @@
         <option value="level:error " />
         <option value="fata" />
         <option value="package:mine fata" />
-        <option value="package:mine fatal" />
-        <option value="package:mine GiftShopAdapter" />
-        <option value="package:mine DeviceIdProvider" />
-        <option value="package:mine bridge" />
-        <option value="package:mine addCalend" />
       </list>
     </option>
   </component>
