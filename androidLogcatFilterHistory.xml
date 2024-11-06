@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine atlas" />
+    <option name="mostRecentlyUsed" value="atlas" />
     <option name="nonFavorites">
       <list>
+        <option value="atlas" />
+        <option value="com.kwai.hi" />
+        <option value="startproc" />
+        <option value="iaware " />
         <option value="package:mine atlas" />
         <option value="startpr" />
         <option value="package:mine " />
@@ -15,14 +19,10 @@
         <option value="package:com.smile.gifmaker " />
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="process:com.kwai.hisense " />
-        <option value="atlas" />
         <option value="start proc" />
         <option value="package:mine startPr" />
         <option value="package:mine Push" />
         <option value="package:mine PushSDK" />
-        <option value="package:mine ChatActivity" />
-        <option value="package:mine process=:com.kwai.hisense:push_v3 " />
-        <option value="package:mine Altas" />
       </list>
     </option>
   </component>
