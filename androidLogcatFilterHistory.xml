@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine atlas" />
+    <option name="mostRecentlyUsed" value="package:mine backgroundWake" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine backgroundWake" />
         <option value="package:mine atlas" />
         <option value="package:mine " />
         <option value="atlas" />
@@ -22,7 +23,6 @@
         <option value="start proc" />
         <option value="package:mine startPr" />
         <option value="package:mine Push" />
-        <option value="package:mine PushSDK" />
       </list>
     </option>
   </component>
