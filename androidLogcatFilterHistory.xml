@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine showBo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine showBo" />
         <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine atlas" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:StorageSpaceManage" />
         <option value="process:com.kwai.hisense " />
         <option value="start proc" />
-        <option value="package:mine startPr" />
       </list>
     </option>
   </component>
