@@ -32,7 +32,7 @@
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
         <entry key="VFS_REFRESH" value="true" />
-        <entry key="ocResolveContextPanel" value="false" />
+        <entry key="smlCompletionWidgetFactory" value="false" />
       </map>
     </option>
   </component>
