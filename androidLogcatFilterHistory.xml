@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine showBo" />
+    <option name="mostRecentlyUsed" value="package:mine fata" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine showBo" />
         <option value="package:mine fata" />
+        <option value="package:mine showBo" />
         <option value="package:mine " />
         <option value="package:mine atlas" />
         <option value="package:mine backgroundWake" />
