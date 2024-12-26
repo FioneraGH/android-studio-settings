@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine yyyyy" />
+    <option name="mostRecentlyUsed" value="package:mine SmallGiftShowQueue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SmallGiftShowQueue" />
         <option value="package:mine yyyyy" />
         <option value="package:mine fata" />
         <option value="package:mine showBo" />
@@ -22,7 +23,6 @@
         <option value=" package:com.smile.gifmaker " />
         <option value="package:com.smile.gifmaker " />
         <option value="package:mine tag:StorageSpaceManage" />
-        <option value="process:com.kwai.hisense " />
       </list>
     </option>
   </component>
