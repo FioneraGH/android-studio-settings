@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fata" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fata" />
         <option value="package:mine " />
+        <option value="package:mine fatal" />
         <option value="package:mine yyyyy" />
         <option value="package:mine SmallGiftShowQueue" />
-        <option value="package:mine fata" />
         <option value="package:mine showBo" />
         <option value="package:mine atlas" />
         <option value="package:mine backgroundWake" />
@@ -21,7 +23,6 @@
         <option value="iaware" />
         <option value=" package:com.smile.gifmaker " />
         <option value="package:com.smile.gifmaker " />
-        <option value="package:mine tag:StorageSpaceManage" />
       </list>
     </option>
   </component>
