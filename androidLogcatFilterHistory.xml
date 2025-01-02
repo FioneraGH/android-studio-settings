@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fata" />
+    <option name="mostRecentlyUsed" value="package:mine HibStart" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine fata" />
+        <option value="package:mine HibStart" />
+        <option value="package:mine AppStart" />
         <option value="package:mine " />
+        <option value="package:mine fata" />
         <option value="package:mine fatal" />
         <option value="package:mine yyyyy" />
         <option value="package:mine SmallGiftShowQueue" />
@@ -21,8 +23,6 @@
         <option value="package:mine AtlasService" />
         <option value="fatal" />
         <option value="iaware" />
-        <option value=" package:com.smile.gifmaker " />
-        <option value="package:com.smile.gifmaker " />
       </list>
     </option>
   </component>
