@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine HibS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HibS" />
+        <option value="package:mine fatal" />
         <option value="package:mine " />
+        <option value="package:mine Ap" />
         <option value="package:mine HibStart" />
         <option value="package:mine AppStart" />
         <option value="package:mine fata" />
-        <option value="package:mine fatal" />
         <option value="package:mine yyyyy" />
         <option value="package:mine SmallGiftShowQueue" />
         <option value="package:mine showBo" />
@@ -20,8 +23,6 @@
         <option value="com.kwai.hisense" />
         <option value="package:mine Atlas" />
         <option value="package:mine AtlasService" />
-        <option value="fatal" />
-        <option value="iaware" />
       </list>
     </option>
   </component>
