@@ -1,20 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine rout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine fata" />
+        <option value="package:mine r" />
         <option value="package:mine rout" />
         <option value="package:mine" />
         <option value="package:mine drou" />
         <option value="package:mine fatal" />
-        <option value="package:mine " />
         <option value="package:mine unsa" />
         <option value="package:mine ForegroundService" />
         <option value="package:mine HibS" />
         <option value="package:mine Ap" />
         <option value="package:mine HibStart" />
         <option value="package:mine AppStart" />
-        <option value="package:mine fata" />
         <option value="package:mine yyyyy" />
         <option value="package:mine SmallGiftShowQueue" />
         <option value="package:mine showBo" />
@@ -22,7 +22,6 @@
         <option value="package:mine backgroundWake" />
         <option value="atlas" />
         <option value="com.kwai.hi" />
-        <option value="startproc" />
       </list>
     </option>
   </component>
