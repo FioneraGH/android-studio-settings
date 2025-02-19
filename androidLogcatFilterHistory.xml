@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine DFPInitModule" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DFPInitModule" />
+        <option value="package:mine gid" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine pause" />
         <option value="package:mine onSurfaceTextureAvailable" />
@@ -14,14 +18,11 @@
         <option value="package:mine HibStartup" />
         <option value="package:mine r" />
         <option value="package:mine rout" />
-        <option value="package:mine" />
         <option value="package:mine drou" />
         <option value="package:mine unsa" />
         <option value="package:mine ForegroundService" />
         <option value="package:mine HibS" />
         <option value="package:mine Ap" />
-        <option value="package:mine HibStart" />
-        <option value="package:mine AppStart" />
       </list>
     </option>
   </component>
