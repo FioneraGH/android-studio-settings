@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine exception" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine exception" />
+        <option value="package:mine upload" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine kanas" />
@@ -20,8 +23,6 @@
         <option value="package:mine rout" />
         <option value="package:mine drou" />
         <option value="package:mine unsa" />
-        <option value="package:mine ForegroundService" />
-        <option value="package:mine HibS" />
       </list>
     </option>
   </component>
