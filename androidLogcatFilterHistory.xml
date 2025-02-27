@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="image" />
+    <option name="mostRecentlyUsed" value="upload" />
     <option name="nonFavorites">
       <list>
+        <option value="upload" />
         <option value="image" />
         <option value="package:mine Fres" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine fa" />
         <option value="package:mine HibStartup" />
         <option value="package:mine r" />
-        <option value="package:mine rout" />
       </list>
     </option>
   </component>
