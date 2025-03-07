@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine pri" />
         <option value="package:mine call:" />
         <option value="Privacy" />
         <option value="PrivacyMethodHook" />
@@ -21,7 +22,6 @@
         <option value="package:mine kanas" />
         <option value="package:mine DFPInitModule" />
         <option value="package:mine gid" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
