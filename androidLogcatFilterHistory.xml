@@ -1,13 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine call:" />
+        <option value="Privacy" />
+        <option value="PrivacyMethodHook" />
+        <option value="getString" />
+        <option value="DexposedBridge" />
+        <option value="privacy" />
+        <option value="unsea" />
+        <option value="Privac" />
         <option value="fatal" />
         <option value="upload" />
         <option value="image" />
         <option value="package:mine Fres" />
-        <option value="package:mine " />
         <option value="package:mine exception" />
         <option value="package:mine upload" />
         <option value="package:mine fatal" />
@@ -15,14 +22,6 @@
         <option value="package:mine DFPInitModule" />
         <option value="package:mine gid" />
         <option value="package:mine" />
-        <option value="package:mine pause" />
-        <option value="package:mine onSurfaceTextureAvailable" />
-        <option value="package:mine PlayerFirstFrameTag" />
-        <option value="package:mine player" />
-        <option value="package:mine startAc" />
-        <option value="package:mine fata" />
-        <option value="package:mine fa" />
-        <option value="package:mine HibStartup" />
       </list>
     </option>
   </component>
