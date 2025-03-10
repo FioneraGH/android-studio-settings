@@ -4,6 +4,7 @@
       <mapping pattern="Cookies" type="AUTO_DETECTED" />
       <mapping pattern="fragment_score_result" type="AUTO_DETECTED" />
       <mapping pattern="SSLUtils" type="AUTO_DETECTED" />
+      <mapping pattern="keystore_setting" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
