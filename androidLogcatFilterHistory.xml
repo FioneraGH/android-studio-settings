@@ -1,7 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="CONSOLE" />
     <option name="nonFavorites">
       <list>
+        <option value="CONSOLE" />
+        <option value="fata" />
+        <option value="package:mine" />
+        <option value="package:mine userId" />
         <option value="package:mine " />
         <option value="package:mine pri" />
         <option value="package:mine call:" />
@@ -18,10 +23,6 @@
         <option value="package:mine Fres" />
         <option value="package:mine exception" />
         <option value="package:mine upload" />
-        <option value="package:mine fatal" />
-        <option value="package:mine kanas" />
-        <option value="package:mine DFPInitModule" />
-        <option value="package:mine gid" />
       </list>
     </option>
   </component>
