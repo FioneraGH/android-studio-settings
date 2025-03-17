@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine CONSOLE" />
         <option value="package:mine userId" />
@@ -22,7 +23,6 @@
         <option value="upload" />
         <option value="image" />
         <option value="package:mine Fres" />
-        <option value="package:mine exception" />
       </list>
     </option>
   </component>
