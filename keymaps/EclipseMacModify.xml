@@ -14,6 +14,7 @@
   <action id="Adtui.ZoomToActualAction">
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.Refresh">
@@ -99,4 +100,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="android.device.sleep" />
+  <action id="me.majiajie.FindViewForAndroid.GenerateFindView" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
