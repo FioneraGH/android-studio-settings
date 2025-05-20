@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.kwai.hisense fata" />
+    <option name="mostRecentlyUsed" value="package:com.kwai.hisense " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kwai.hisense " />
+        <option value="package:com.kwai.hisense yo" />
         <option value="package:com.kwai.hisense fata" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
@@ -21,8 +23,6 @@
         <option value="unsea" />
         <option value="Privac" />
         <option value="fatal" />
-        <option value="upload" />
-        <option value="image" />
       </list>
     </option>
   </component>
